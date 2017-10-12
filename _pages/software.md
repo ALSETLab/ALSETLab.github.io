@@ -22,7 +22,7 @@ The following lists are curated collections of related software developed within
 ### Synchrophasor Tools
 To be completed ...
 
-### Syncrhophasor Applications
+### Synchrophasor Applications
 To be completed ...
 
 ### HVDC Models
