@@ -7,10 +7,14 @@ redirect_from:
   - /resume/
 ---
 {% include base_path %}
-### ***2024-08-14:*** Notice to Prospective Researchers and Students
-I will NOT be recruiting any students to join my team for Spring 2025. The earliest that I will be looking for students to join my team will be to join during Fall 2025.
+### ***2024-12-12:*** Notice to Prospective Researchers and Students
+I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.
 
-Please do not email me with requests and questions about joining my research program until the Fall 2025 admissions period, because I will not have available funding to support additional students. See more information [here](https://alsetlab.github.io/students/).
+I have been on sabbatical from August 2023 to August 2024 and, unfortunately, I have not managed to obtain any new research grants (in other words, many grant applications have been rejected :-( ). Consequently, I will NOT be looking for any new students in the near future. 
+My current priority is to find funds to support my existing group of students, however, if funding becomes available, I may start looking for new students to join in Fall 2026.
+
+Please do not email me with requests and questions about joining my research program because I will not have available funding to support additional students. 
+See more information about how funding/support schemes for  [here](https://alsetlab.github.io/students/).
 
 ---
 # Current Researchers and Students @ALSETLab

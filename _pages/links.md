@@ -18,12 +18,10 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 ### The Modelica Crowd
 - [Prof. Peter Fritzon, Linköping Univ., Sweden](http://www.ida.liu.se/~petfr27/) leading the [OpenModelica](https://openmodelica.org) effort.
 - [Dr. Dietmar Winkler, HSN, Norway](http://me.dwe.no), expert in all Modelica [things](https://github.com/dietmarw), and member of [OpenIPSL](http://openipsl.org)
-- [Dr. Michael Tiller](https://www.xogeny.com) Modelica-guru and modeling code-master at Xogeny! Inspiration engine for the software-peasants like myself.
 
 ### The Power Systems Crowd 
 - [Dr. David Laverty, QUB, Belfast](http://www.qub.ac.uk/research-centres/EPIC/Profile/?name=david.laverty), leading the [OpenPMU](http://faraday1.ucd.ie) project.
 - [Prof. Mario Paolone, EPFL, Switzerland](https://people.epfl.ch/mario.paolone), leading the [DESL](https://desl-pwrs.epfl.ch).
-- [Prof. Federico Milano, UCD, Dublin](http://faraday1.ucd.ie) creator of PSAT and DOME.
 - [Dr. Barry Rawn, CMU Africa, Rwanda](https://www.ece.cmu.edu/directory/bios/rawn-barry.html), personal website [here](http://www.barryrawn.info/academic/).
 ... more to come!
 
@@ -49,7 +47,7 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 - [RaPId Toolbox](https://github.com/ALSETLab/RaPId), MATLAB-based (unfortunately), but very special as we made with my students...
 - [DSI Toolbox](https://github.com/ftuffner/DSIToolbox) MATLAB-based (unfortunately).
 - [CONTSID Toolbox](http://www.contsid.cran.univ-lorraine.fr) MATLAB-based (unfortunately).
-# What can I use to learn Modelica...
+# What can I use to learn Modelica?...
 ## Modelica Learning Resources
 - [modelica.university](http://modelica.university/res/apps): Interactive web-based Modelica models and simulation showcases. ** See ** the ``Tour of Modelica``.
 - [Modelica in Action](https://github.com/mbonvini/ModelicaInAction)  create, compile and simulate Modelica models using JModelica.org.
