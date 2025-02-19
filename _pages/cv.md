@@ -31,8 +31,8 @@ USA
 
 ## Website and Email
 - Website: [ALSETLab.com](http://www.ALSETLab.com)
-- GMAIL E-mail: <mailto:luigi.vanfretti@gmail.com>
-- Please don't send emails to my @rpi.edu address, your email might be blocked by the university servers.
+- Rensselaer Polytechnic Institute E-mail: [Click Here](mailto:vanfrl@rpi.edu?subject=Your%20Subject&body=Body%20text)
+
 
 # Abridged CV
 - Please see my LinkedIn profile [here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
@@ -55,6 +55,7 @@ USA
 - 2017 – 2022/6: Associate Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
 
 #### Part-time appointments:
+- 2023/8 - 2024/3: Visiting Faculty, Mitsubishi Electric Research Labs., Cambridge, MA, USA.
 - 2023/6 - 2023/07:	Visiting Researcher, École Centrale de Lyon, Lyon, France.
 - 2022/7: Visiting Professor, SuperGrid Institute, Lyon, France.
 - 2022/6:	Invited Professor (Enseignant Invité), École Centrale de Lyon, Lyon, France.

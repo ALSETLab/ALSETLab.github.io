@@ -23,7 +23,8 @@ Consulting fees for the services above are negotiated on individual basis. Fee w
 Services are provided to institutions as well as individuals. Some of the companies to which consulting services have been provided to include:
 
 - Industry:
-  - [2024 - present] Mitsubishi Electric Research Labs., USA
+  - [2025 - present] CompassBlue, Cazenovia, NY, USA
+  - [2024] Mitsubishi Electric Research Labs., USA
   - [2022 - present] New York Power Authority, USA
   - [2020 - present] Dominion Energy Virginia, USA
   - [2019 - 2023] SuperGrid Institute, France
