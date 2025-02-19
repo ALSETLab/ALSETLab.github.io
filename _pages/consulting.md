@@ -15,7 +15,7 @@ Enquiries for services can be made via my consulting email: [Click Here](mailto:
 Prof. Luigi Vanfretti offers consulting services on his personal capacity through Vanfretti Consulting LLC, an S-Corp duly registered in New York State.
 
 <p align="center">
-<img src="https://alsetlab.github.io/images/vllc.png" alt="Description of image" width="250"/>
+<img src="https://alsetlab.github.io/images/vllc.png" alt="Description of image" width="300"/>
 </p>
 
 Services are provided in Prof. Vanfretti's fields of expertise that include modeling and simulation of cyber-physical systems (including power system studies), system identification, electrical power engineering and other areas in electrical engineering and software engineering. Examples of previous services provided include expert consulting services in the development of modeling and simulation technologies and systems, measurement and data acquisition technologies and systems, development of research funding applications, development and execution support in research projects, technology landscape analysis, business development, engineering studies, and expert opinion and analysis on the areas of expertise of Prof. Vanfretti. Other services include the delivery of courses and training, software support and supervision support of research and engineering projects in the areas of expertise Prof. Vanfretti
