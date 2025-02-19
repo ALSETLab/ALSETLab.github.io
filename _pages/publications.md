@@ -17,7 +17,7 @@ author_profile: true
 - Here is my Google Doc, a "living" document with self-compiled list of publications: [link](https://docs.google.com/document/d/1ez02sR4cy6iYLs9GYb5zmpRQGEMCD2KV2b54JQH5fF0/edit?usp=sharing)
 
 - For those who can't access the link above due to your ISP or company policies not allowing the use of Google Docs, the following list is a snapshot generated using the fantastic tool [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)
-  - Snapshot last updated on 2024/08/2024
+  - Snapshot last updated on 2025/02/19
 
 <!-- Copy and paste the converted output. -->
 
@@ -35,58 +35,127 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
 ----->
 
-### Conference Proceedings
+<!-----
+
+
+
+Conversion time: 10.993 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β44
+* Tue Feb 18 2025 21:16:17 GMT-0800 (PST)
+* Source doc: LV_publication_list
+* Tables are currently converted to HTML tables.
+----->
+
+
+<h2>Published Works</h2>
+
+
+<h3>*   Conference Proceedings</h3>
+
+
+(EP04) Proceedings of the American Modelica Conference 2024, Storrs, Connecticut, USA, October 14-16, 2024.
+
+Download: [https://ecp.ep.liu.se/index.php/modelica/issue/view/95](https://ecp.ep.liu.se/index.php/modelica/issue/view/95) 
+
+Series: Linköping Electronic Conference Proceedings 207 \
+Editor(s): Michael Tiller, Hubertus Tummescheit, **Luigi Vanfretti**, Christopher Laughman, and Michael Wette
+
+ISBN: 978-91-8075-568-9
+
+ISSN: 1650-3686 (print), 1650-3740 (online)
+
+Number of pages: 217
+
+DOI: [https://doi.org/10.3384/ecp207](https://doi.org/10.3384/ecp207) 
+
+Published: 2025-01-16
 
 (EP03) Proceedings of the American Modelica Conference 2022, Dallas, Texas, USA, October 26-28, 2022.
 
 Download: [https://ecp.ep.liu.se/index.php/modelica/issue/view/71/75](https://ecp.ep.liu.se/index.php/modelica/issue/view/71/75)
+
 Series: Linköping Electronic Conference Proceedings 186 \
 Editor(s): Michael Tiller, Hubertus Tummescheit, **Luigi Vanfretti,** Christopher Laughman, and Michael Wetter
+
 ISBN: 978-91-7929-218-8
+
 ISSN: 1650-3686 (print), 1650-3740 (online)
+
 Number of pages: 168
+
 DOI: [https://doi.org/10.3384/ecp21186](https://doi.org/10.3384/ecp21186) 
+
 Published: 2023-02-09
 
 (EP02) Proceedings of the American Modelica Conference 2020, Boulder, Colorado, USA, March 23-25, 2020
 
 Download: [http://www.ep.liu.se/ecp/169/ecp2020169.pdf](http://www.ep.liu.se/ecp/169/ecp2020169.pdf) 
+
 Editor(s): Michael Tiller, Hubertus Tummescheit, **Luigi Vanfretti,** Christopher Laughman, and Michael Wetter
+
 Linköping Electronic Conference Proceedings 169 (2020) \
 Published: 2020-11-03
+
 ISBN: 978-91-7929-900-2
+
 ISSN: 1650-3686 (print), 1650-3740 (online)
+
 Number of pages: 215
+
 DOI: [https://doi.org/10.3384/ecp20169](https://doi.org/10.3384/ecp20169) 
 
 (EP01) Proceedings of The American Modelica Conference 2018, October 9-10, Samberg Conference Center, Cambridge MA, USA. Download: [http://www.ep.liu.se/ecp/154/ecp18154.pdf](http://www.ep.liu.se/ecp/154/ecp18154.pdf) 
 
 Editor(s): **Luigi Vanfretti** and Hubertus Tummescheit
+
 Linköping Electronic Conference Proceedings 154 (2018)
+
 Published: 2019-02-26
+
 ISBN: 978-91-7685-148-7
+
 ISSN: 1650-3686 (print), 1650-3740 (online)
+
 Number of pages: 253
+
 DOI: [https://doi.org/10.3384/ecp20169](https://doi.org/10.3384/ecp20169) 
 
-### Books
+<h3>1    Books</h3>
 
-(B01)_ **Luigi Vanfretti**_, _Notions for PMU-Based Power System Model Reduction of Large Power Systems. _Saarbrucken, Germany: LAP LAMBERT  Academic Publishing, October 2010. ISBN-13: 978-3-8433-6011-1. ISBN-10: 3843360111. [https://www.lap-publishing.com/catalog/details/store/hu/book/978-3-8433-6011-1/notions-for-pmu-based-power-system-model-reduction?locale=gb](https://www.lap-publishing.com/catalog/details/store/hu/book/978-3-8433-6011-1/notions-for-pmu-based-power-system-model-reduction?locale=gb) 
 
-### Book Chapters
-(BC04) **L. Vanfretti,** M. Baudette, and A. White, “Monitoring and control of renewable energy sources using synchronized phasor measurements,” Book Chapter, in _Renewable Energy Integration: Practical Management of Variability, Uncertainty and Flexibility in Power Grids_, Editor: Lawrence E. Jones, Elsevier, 2014, 2017. [http://store.elsevier.com/Renewable-Energy-Integration/Lawrence-Jones/isbn-9780124079106/](http://store.elsevier.com/Renewable-Energy-Integration/Lawrence-Jones/isbn-9780124079106/) 
+(B01)* ***Luigi Vanfretti**, *Notions for PMU-Based Power System Model Reduction of Large Power Systems. *Saarbrucken, Germany: LAP LAMBERT  Academic Publishing, October 2010. ISBN-13: 978-3-8433-6011-1. ISBN-10: 3843360111. [https://www.lap-publishing.com/catalog/details/store/hu/book/978-3-8433-6011-1/notions-for-pmu-based-power-system-model-reduction?locale=gb](https://www.lap-publishing.com/catalog/details/store/hu/book/978-3-8433-6011-1/notions-for-pmu-based-power-system-model-reduction?locale=gb) 
 
-(BC03) **L. Vanfretti**, D. Van Hertem and J. O. Gjerde, “Smart Transmission Grids vision for Europe: Towards a Realistic Research Agenda”, Book Chapter, in _Smart Grids and Sustainable Energy Transformation_, Editors: P. Hills, Daphne Mah, Victor O.K. Li, Richard Balme, Springer, 2014. [http://www.springer.com/energy/policy,+economics,+management+%26+transport/book/978-1-4471-6280-3](http://www.springer.com/energy/policy,+economics,+management+%26+transport/book/978-1-4471-6280-3) 
+<h3>2    Book Chapters</h3>
 
-(BC02) **L. Vanfretti**, Y. Chompoobutrgool, and J.H. Chow, “Chapter 10: Inter-Area Mode Analysis for Large Power Systems using Synchrophasor Data”, Book Chapter, in _Coherency and Model Reduction of Large Power Systems_, Joe H. Chow (Ed.), Springer, 2013. [http://www.springer.com/energy/systems%2C+storage+and+harvesting/book/978-1-4614-1802-3](http://www.springer.com/energy/systems%2C+storage+and+harvesting/book/978-1-4614-1802-3) 
+
+(BC04) **L. Vanfretti,** M. Baudette, and A. White, “Monitoring and control of renewable energy sources using synchronized phasor measurements,” Book Chapter, in *Renewable Energy Integration: Practical Management of Variability, Uncertainty and Flexibility in Power Grids*, Editor: Lawrence E. Jones, Elsevier, 2014, 2017. [http://store.elsevier.com/Renewable-Energy-Integration/Lawrence-Jones/isbn-9780124079106/](http://store.elsevier.com/Renewable-Energy-Integration/Lawrence-Jones/isbn-9780124079106/) 
+
+(BC03) **L. Vanfretti**, D. Van Hertem and J. O. Gjerde, “Smart Transmission Grids vision for Europe: Towards a Realistic Research Agenda”, Book Chapter, in *Smart Grids and Sustainable Energy Transformation*, Editors: P. Hills, Daphne Mah, Victor O.K. Li, Richard Balme, Springer, 2014. [http://www.springer.com/energy/policy,+economics,+management+%26+transport/book/978-1-4471-6280-3](http://www.springer.com/energy/policy,+economics,+management+%26+transport/book/978-1-4471-6280-3) 
+
+(BC02) **L. Vanfretti**, Y. Chompoobutrgool, and J.H. Chow, “Chapter 10: Inter-Area Mode Analysis for Large Power Systems using Synchrophasor Data”, Book Chapter, in *Coherency and Model Reduction of Large Power Systems*, Joe H. Chow (Ed.), Springer, 2013. [http://www.springer.com/energy/systems%2C+storage+and+harvesting/book/978-1-4614-1802-3](http://www.springer.com/energy/systems%2C+storage+and+harvesting/book/978-1-4614-1802-3) 
 
 (BC01) Rujiroj Leelaruji and **Luigi Vanfretti**, Power System Protective Relaying: Basic Concepts, Industrial-Grade Devices, and Communication Mechanisms, to appear, Chapter 16: Power-System Operations, Section 16.2, in W. Beaty (Editor), Standard Handbook for Electrical Engineers, 16th Edition, 2012. [http://www.mcgrawhill.ca/professional/products/9780071762328/standard+handbook+for+electrical+engineers+sixteenth+edition/](http://www.mcgrawhill.ca/professional/products/9780071762328/standard+handbook+for+electrical+engineers+sixteenth+edition/) 
 
+<h3>3    Journal Papers</h3>
 
-### Journal Papers
-#### Notes on Publications included in Special Issues:
+
+List of Publications Appearing in Special Issues
+
+
+
 * Paper (JP96) has been published in a[ Special Issue: “Planning, Operation and Control of Power Systems with Large Amounts of Variable Renewable Generation”](https://www.mdpi.com/journal/electronics/special_issues/Power_Systems)
-* Paper (JP95) has been published in a [Special Issue: “Intelligent Control of Power Grid and Renewable Energy System](Control_Power_Grid_Energy_System)”.
+* Paper (JP95) has been published in a [Special Issue: “Intelligent Control of Power Grid and Renewable Energy System](https://www.mdpi.com/journal/electronics/special_issues/Control_Power_Grid_Energy_System)”.
 * Paper (JP91) has been published in the S[pecial Issue: “Advanced Electric Power System 2023”.](https://www.mdpi.com/journal/energies/special_issues/TVD92H72EC)
 * Paper (JP80) has been selected for a [Special Issue on Electrified Aircraft Technologies](https://tec.ieee.org/images/files/pdf/TTE/TTE_SpecialIssue_Revised_2-14-2021.pdf).
 * Paper (JP65) has been published in a Special Issue on Cyber Physical Power Systems: Advanced Intelligent Technologies and Applications.
@@ -96,17 +165,46 @@ DOI: [https://doi.org/10.3384/ecp20169](https://doi.org/10.3384/ecp20169)
 * Paper (JP07) published in a Special Issue on Power System Phasor Measurement Data and Their Applications
 * Paper (JP02) published in a Special Issue on Virtual Laboratories. 
 
-#### 2024 (7 articles)
+<h4>List of Published Journal Papers</h4>
 
-(JP99) F. Fachini, T. Bogodorova, **L. Vanfretti** and S. Boersma, “A Microgrid Control Scheme for Islanded Operation and Re-Synchronization utilizing Model Predictive Control,” Sustainable Energy, Grids and Networks, June 2024.
 
-Publisher’s Website: [https://doi.org/10.1016/j.segan.2024.101464](https://doi.org/10.1016/j.segan.2024.101464) 
+<h4>2025 </h4>
+
+
+(103) F. Fachini, H. Chang, T. Bogodorova and **L. Vanfretti**, “Customized Open-Source Renewable Energy Models Validated through PHIL Lab Experiments,” accepted for publication in Renewable Energy, Feb. 2025.
+
+Author’s copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/JP103_FFLV_RENE-D-24-07028R1__WECC_vs_SMA_PHIL_Setup__Renewable_Energy_Journal_.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/JP103_FFLV_RENE-D-24-07028R1__WECC_vs_SMA_PHIL_Setup__Renewable_Energy_Journal_.pdf) 
+
+<h4>2024 (10 articles)</h4>
+
+
+(JP102) A. Rahimnejad, **L. Vanfretti**, S. A. Gadsden and a. Mohammad Alshabi, "Strengthening Lattice Kalman Filters: Introducing Strong Tracking Lattice Filtering for Enhanced Robustness," in IEEE Access, vol. 12, pp. 178552-178565, 2024, doi: 10.1109/ACCESS.2024.3504338.
+
+Publisher’s Website (open access): [https://ieeexplore.ieee.org/document/10759673](https://ieeexplore.ieee.org/document/10759673) 
+
+(JP101) C. Mishra,** L. Vanfretti**, J. de la Ree Jr., and K. D. Jones, “Internal Clock Errors in Synchrophasor Ambient Data: Effects, Detection, and a posteriori Estimation-based Correction,” International Journal of Electrical Power & Energy Systems, Volume 161, 2024, 110208, ISSN 0142-0615.
+
+Preprint available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4747566](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4747566) 
+
+Publisher’s Website (Open Access): [https://www.sciencedirect.com/science/article/pii/S0142061524004290](https://www.sciencedirect.com/science/article/pii/S0142061524004290) 
+
+Author’s Copy: [https://www.researchgate.net/publication/383739296_Internal_clock_errors_in_synchrophasor_ambient_data_Effects_detection_and_a_posteriori_estimation-based_correction](https://www.researchgate.net/publication/383739296_Internal_clock_errors_in_synchrophasor_ambient_data_Effects_detection_and_a_posteriori_estimation-based_correction) 
+
+(JP100) P. Huang, H. Wu, **L. Vanfretti** and O. Gomis-Bellmunt, "Wideband Impedance Passivation of MMCs for Suppressing Harmonic Oscillations," in IEEE Transactions on Power Delivery, vol. 39, no. 6, pp. 3101-3113, Dec. 2024, doi: 10.1109/TPWRD.2024.3453193.
+
+Publisher’s Website: [https://ieeexplore.ieee.org/document/10663242](https://ieeexplore.ieee.org/document/10663242) 
+
+Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/JP100_PH_TPWRD_Wideband_Passivation_Harmonic_Suppression.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/JP100_PH_TPWRD_Wideband_Passivation_Harmonic_Suppression.pdf) 
+
+(JP99) F. Fachini, T. Bogodorova, **L. Vanfretti** and S. Boersma, “A microgrid control scheme for islanded operation and re-synchronization utilizing Model Predictive Control,”  Sustainable Energy, Grids and Networks, Volume 39, 2024, 101464, ISSN 2352-4677.
+
+Publisher’s Website: [https://doi.org/10.1016/j.segan.2024.101464](https://doi.org/10.1016/j.segan.2024.101464)
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J099_FF_MPCl_UPDATE3_.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J099_FF_MPCl_UPDATE3_.pdf) 
 
-(JP98) T. Bogodorova, D. Osipov, and **L. Vanfretti**, “Fast Small Signal Stability Assessment using Deep Convolutional Neural Networks,” Electric Power Systems Research, Volume 235, 2024, 110853, ISSN 0378-7796.
+(JP98) Tetiana Bogodorova, Denis Osipov,** Luigi Vanfretti**, “Fast small signal stability assessment using deep convolutional neural networks,” Electric Power Systems Research, Volume 235, 2024, 110853, ISSN 0378-7796.
 
-Publisher’s Website: [https://doi.org/10.1016/j.epsr.2024.110853 ](https://doi.org/10.1016/j.epsr.2024.110853 )
+Publisher’s Website: [https://doi.org/10.1016/j.epsr.2024.110853](https://doi.org/10.1016/j.epsr.2024.110853) 
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J098_TB_Fast_Small_Signal_DeepConvolutionalNNs.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J098_TB_Fast_Small_Signal_DeepConvolutionalNNs.pdf) 
 
@@ -140,8 +238,8 @@ Author’s Copy: [https://hal.science/hal-04338856 ](https://hal.science/hal-043
 
 Publisher’s Website: [https://www.sciencedirect.com/science/article/pii/S2352467724000079  ](https://www.sciencedirect.com/science/article/pii/S2352467724000079)
 
+<h4>2023 (8 articles)</h4>
 
-#### 2023 (8 articles)
 
 (JP92) Fernando Fachini, Marcelo de Castro, Tetiana Bogodorova, **Luigi Vanfretti**, “OpenIMDML: Open Instance Multi-Domain Motor Library utilizing the Modelica modeling language,” SoftwareX, Volume 24,
 
@@ -157,7 +255,7 @@ Open Access Publisher’s Website: [https://www.mdpi.com/1996-1073/16/19/6909](h
 
 Authors’ copy: [https://www.researchgate.net/publication/374327975_Real-Time_Control_of_a_Battery_Energy_Storage_System_Using_a_Reconfigurable_Synchrophasor-Based_Control_System](https://www.researchgate.net/publication/374327975_Real-Time_Control_of_a_Battery_Energy_Storage_System_Using_a_Reconfigurable_Synchrophasor-Based_Control_System) 
 
-(JP90)  A. Rahimnejad, J. Enayati, **L. Vanfretti**, S. A. Gadsden and M. AlShabi, "Reinforced Lattice Kalman Filters: A Robust Nonlinear Estimation Strategy," in IEEE Open Journal of Signal Processing, vol. 4, pp. 410-423, 2023, doi: 10.1109/OJSP.2023.3298555.
+(JP90)  A. Rahimnejad, J. Enayati,** L. Vanfretti**, S. A. Gadsden and M. AlShabi, "Reinforced Lattice Kalman Filters: A Robust Nonlinear Estimation Strategy," in IEEE Open Journal of Signal Processing, vol. 4, pp. 410-423, 2023, doi: 10.1109/OJSP.2023.3298555.
 
 Publisher’s website: [https://ieeexplore.ieee.org/document/10192922](https://ieeexplore.ieee.org/document/10192922) 
 
@@ -195,8 +293,8 @@ Publisher’s website: [https://www.sciencedirect.com/science/article/pii/S03787
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J084_Prottay_GFOV_CHIL.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J084_Prottay_GFOV_CHIL.pdf) 
 
+<h4>2022 (5 articles)</h4>
 
-#### 2022 (5 articles)
 
 (JP84) J. Enayati, A. Rahimnejad,** L. Vanfretti**, S. A. Gadsden and M. Al-Shabi, "Dynamic Harmonic Estimation Using a Novel Robust Filtering Strategy: Iterated Sliding Innovation Cubature Filter," in IEEE Transactions on Instrumentation and Measurement, 2022, doi: 10.1109/TIM.2022.3218539.
 
@@ -230,12 +328,14 @@ Pre-print: [https://arxiv.org/abs/2105.0d0228v1](https://arxiv.org/abs/2105.0022
 
 (JP80) M. Podlaski, **L. Vanfretti**, A. Khare, M. Sumption, and P. Ansell, “Multi-Domain Modeling and Simulation of High Temperature Superconducting Transmission Lines under Short Circuit Fault Conditions,” IEEE Transactions on Transportation Electrification, vol. 8, no. 3, pp. 3859-3869, Sept. 2022, doi: 10.1109/TTE.2021.3131271.
 
+***Special Issue on Electrified Aircraft Technologies. ***
+
 Publisher’s Website: [https://ieeexplore.ieee.org/document/9627924](https://ieeexplore.ieee.org/document/9627924) 
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J080_MP_CHEETA_HTSLineModeling_and_FaultAnalysis.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/journal/J080_MP_CHEETA_HTSLineModeling_and_FaultAnalysis.pdf) 
 
+<h4>2021 (5 articles)</h4>
 
-#### 2021 (5 articles)
 
 (J79) Prottay M. Adhikari, Hossein Hooshyar, Randall J. Fitsik, **Luigi Vanfretti**, “Precision timing and communication networking experiments in a real-time power grid hardware-in-the-loop laboratory,” Sustainable Energy, Grids and Networks, 2021, 100549, ISSN 2352-4677.
 
@@ -267,8 +367,8 @@ Publisher’s website: [https://doi.org/10.1016/j.ijepes.2020.106640](https://do
 
 Author’s copy: [https://www.researchgate.net/publication/349182841_Probing_signal_design_for_enhanced_damping_estimation_in_power_networks](https://www.researchgate.net/publication/349182841_Probing_signal_design_for_enhanced_damping_estimation_in_power_networks) 
 
+<h4>2020 (5 articles)</h4>
 
-#### 2020 (5 articles)
 
 (J74) T. Bogodorova, D. Osipov and **L. Vanfretti**, “Automated Design of Realistic Contingencies for Big Data Generation,” in IEEE Transactions on Power Systems, vol. 35, no. 6, pp. 4968-4971, Nov. 2020, doi: 10.1109/TPWRS.2020.3020726.
 
@@ -276,13 +376,15 @@ Publisher’s website: [https://ieeexplore.ieee.org/document/9184137](https://ie
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J074_TBDOLV_bigdatageneration.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J074_TBDOLV_bigdatageneration.pdf) 
 
-(J73) **L. Vanfretti** and V.S. Narasimham Arava, “Decision Tree-Based Classification of a Multitude of Operating Conditions for Power System Voltage Stability Assessment,”  International Journal of Electrical Power And Energy Systems, Volume 123, 2020, 106251, ISSN 0142-0615.
+(J73) **L. Vanfretti **and V.S. Narasimham Arava, “Decision Tree-Based Classification of a Multitude of Operating Conditions for Power System Voltage Stability Assessment,”  International Journal of Electrical Power And Energy Systems, Volume 123, 2020, 106251, ISSN 0142-0615.
 
 Publisher’s website: [https://doi.org/10.1016/j.ijepes.2020.106251](https://doi.org/10.1016/j.ijepes.2020.106251) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J073_LV_NA_DecisionTrees_VS.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J073_LV_NA_DecisionTrees_VS.pdf) 
 
-(J72)  Francisco J. Gomez, **L. Vanfretti**, M. Aguilera, and Svein H. Olsen, “Software Requirements for Interoperable and Standard-Based Power System Modeling Tools,” Simulation Modelling Practice and Theory, Volume 103, 2020, 102095, ISSN 1569-190X, https://doi.org/10.1016/j.simpat.2020.102095
+(J72)  Francisco J. Gomez, **L. Vanfretti**, M. Aguilera, and Svein H. Olsen, “Software Requirements for Interoperable and Standard-Based Power System Modeling Tools,” Simulation Modelling Practice and Theory,
+
+Volume 103, 2020, 102095, ISSN 1569-190X, https://doi.org/10.1016/j.simpat.2020.102095
 
 Publisher’s website: [http://www.sciencedirect.com/science/article/pii/S1569190X20300332](http://www.sciencedirect.com/science/article/pii/S1569190X20300332) 
 
@@ -294,14 +396,16 @@ Publisher’s website: [https://digital-library.theiet.org/content/journals/10.1
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J071_Hamed_Subsea.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J071_Hamed_Subsea.pdf) 
 
-(J70) E. Rebello,** L. Vanfretti** and M. S. Almas, "Experimental Testing of a Real-Time Implementation of a PMU-Based Wide-Area Damping Control System," in IEEE Access, vol. 8, pp. 25800-25810, 2020. doi: 10.1109/ACCESS.2020.2970988
+(J70) E. Rebello,** L. Vanfretti** and M. S. Almas, "Experimental Testing of a Real-Time Implementation of a PMU-Based Wide-Area Damping Control System," in IEEE Access, vol. 8, pp. 25800-25810, 2020.
+
+doi: 10.1109/ACCESS.2020.2970988
 
 Publisher’s Website: [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977519&isnumber=8948470](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977519&isnumber=8948470) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J070_PMU_WACS_DampingControl.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J070_PMU_WACS_DampingControl.pdf) 
 
+<h4>2019 (5 articles)</h4>
 
-#### 2019 (5 articles)
 
 (J69) T. Agarwal, P. Niknejad, M.R. Barzegaran, and **L. Vanfretti**, "Multi-Level Time-Sensitive Networking (TSN) Using the Data Distribution Services (DDS) for Synchronized Three-Phase Measurement Data Transfer," in IEEE Access, vol. 7, pp. 131407-131417, 2019. doi: 10.1109/ACCESS.2019.2939497
 
@@ -335,12 +439,12 @@ Special Issue on Enabling Paradigms for Information Processing in Smart Grids.
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J055_AutoReclosing.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J055_AutoReclosing.pdf) 
 
+<h4>2018 (15 articles)</h4>
 
-#### 2018 (15 articles)
 
 (J65) T. Agarwal, P. Niknejad, A. Rahimnejad, M.R. Barzegaran, and **L. Vanfretti,** “Cyber-Physical Microgrid Components Fault Prognosis using Electromagnetic Sensors,” IET Cyber-Physical Systems: Theory & Applications, 13 Dec. 2018. Online: [http://dx.doi.org/10.1049/iet-cps.2018.5043](http://dx.doi.org/10.1049/iet-cps.2018.5043) 
 
-**_Special Issue on Cyber Physical Power Systems: Advanced Intelligent Technologies and Applications._**
+***Special Issue on Cyber Physical Power Systems: Advanced Intelligent Technologies and Applications.***
 
 Author’s copy: 
 
@@ -354,7 +458,7 @@ Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J061_Multidomain_semantic.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J061_Multidomain_semantic.pdf)
 
-(J63) J. Lavenius and **L. Vanfretti,** “PMU-Based Estimation of Synchronous Machines’ Unknown Inputs Using a Nonlinear Extended Recursive Three-Step Smoother,” in _IEEE Access_, vol. 6, pp. 57123-57136, 2018. On-line: [https://ieeexplore.ieee.org/document/8481338](https://ieeexplore.ieee.org/document/8481338) 
+(J63) J. Lavenius and **L. Vanfretti,** “PMU-Based Estimation of Synchronous Machines’ Unknown Inputs Using a Nonlinear Extended Recursive Three-Step Smoother,” in *IEEE Access*, vol. 6, pp. 57123-57136, 2018. On-line: [https://ieeexplore.ieee.org/document/8481338](https://ieeexplore.ieee.org/document/8481338) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J060_StateInputEstimation.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J060_StateInputEstimation.pdf) 
 
@@ -366,7 +470,7 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J0
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J058_StrongridDLL.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J058_StrongridDLL.pdf) 
 
-(J60) V. S. N. Arava and **L. Vanfretti**, "A Method to Estimate Power System Voltage Stability Margins using Time-series from Dynamic Simulations with Sequential Load Perturbations," in _IEEE Access_, vol. 6, pp. 43622-43632, 2018. [https://doi.org/10.1109/ACCESS.2018.2862427](https://doi.org/10.1109/ACCESS.2018.2862427) 
+(J60) V. S. N. Arava and **L. Vanfretti**, "A Method to Estimate Power System Voltage Stability Margins using Time-series from Dynamic Simulations with Sequential Load Perturbations," in *IEEE Access*, vol. 6, pp. 43622-43632, 2018. [https://doi.org/10.1109/ACCESS.2018.2862427](https://doi.org/10.1109/ACCESS.2018.2862427) 
 
 Author’s copy: 
 
@@ -386,7 +490,7 @@ Special Issue on Enabling Paradigms for Information Processing in Smart Grids.
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J054_DecisionTree_DSA.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J054_DecisionTree_DSA.pdf) 
 
-(J56) F.J. Gómez-López, **L. Vanfretti**, and S.H. Olsen, “CIM-Compliant Power System Dynamic Model-to-Model Transformation and Simulation Model Generation,” in _IEEE Transactions on Industrial Informatics_, vol. 14, no. 9, pp. 3989-3996, Sept. 2018. [http://ieeexplore.ieee.org/document/8231176/](http://ieeexplore.ieee.org/document/8231176/) 
+(J56) F.J. Gómez-López, **L. Vanfretti**, and S.H. Olsen, “CIM-Compliant Power System Dynamic Model-to-Model Transformation and Simulation Model Generation,” in *IEEE Transactions on Industrial Informatics*, vol. 14, no. 9, pp. 3989-3996, Sept. 2018. [http://ieeexplore.ieee.org/document/8231176/](http://ieeexplore.ieee.org/document/8231176/) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J053_CIM2Modelica_Theory.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J053_CIM2Modelica_Theory.pdf)
 
@@ -415,8 +519,8 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J0
 
 Publisher’s website: [https://doi.org/10.1016/j.segan.2017.04.001](https://doi.org/10.1016/j.segan.2017.04.001)
 
+<h4>2017 (15 articles)</h4>
 
-#### 2017 (15 articles)
 
 (J50) M.S. Almas, **L. Vanfretti**, R.S. Singh and G.M. Jonsdottir, “Vulnerability of Synchrophasor-Based WAMPAC Applications’ to Time Synchronization Spoofing,” IEEE Transactions on Smart Grid, 2017. [http://dx.doi.org/10.1109/TSG.2017.2665461](http://dx.doi.org/10.1109/TSG.2017.2665461)
 
@@ -484,13 +588,18 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J0
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J035_Hopf1.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J035_Hopf1.pdf) 
 
+<h4>2016 (7 articles)</h4>
 
-#### 2016 (7 articles)
-(J34) M. S. Almas and **L. Vanfretti**, “A Hybrid Synchrophasor and GOOSE-Based Power System Synchronization Scheme,” in _IEEE Access_, vol. 4, pp. 4659-4668, 2016. DOI: [http://dx.doi.org/10.1109/ACCESS.2016.2601445](http://dx.doi.org/10.1109/ACCESS.2016.2601445) 
 
-Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J034_goose_pmu_synchronization.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J034_goose_pmu_synchronization.pdf) 
+(J34) M. S. Almas and **L. Vanfretti**, “A Hybrid Synchrophasor and GOOSE-Based Power System Synchronization Scheme,” in *IEEE Access*, vol. 4, pp. 4659-4668, 2016. DOI: [http://dx.doi.org/10.1109/ACCESS.2016.2601445](http://dx.doi.org/10.1109/ACCESS.2016.2601445) 
+
+Author’s copy: 
+
+[https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J034_goose_pmu_synchronization.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J034_goose_pmu_synchronization.pdf) 
 
 (J33) F. Mahmood, H. Hooshyar, J. Lavenius, P. Lund and **L. Vanfretti**, “Real-Time Reduced Steady State Model Synthesis of Active Distribution Networks using PMU Measurements,” IEEE Transactions on Power Delivery, 2016. [http://dx.doi.org/10.1109/TPWRD.2016.2602302](http://dx.doi.org/10.1109/TPWRD.2016.2602302) 
+
+***Special Issue on Special Section on Protection and Real-Time Monitoring of Transmission and Distribution Systems with High Penetration of Distributed Generation and ***
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J033_pmu_ssms_t_equivalent.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J033_pmu_ssms_t_equivalent.pdf) 
 
@@ -498,54 +607,60 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J0
 
 Author’s copy: [https://ec07se.rpi.edu/~vanfrl/documents/publications/journal/J032_RaPId.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J032_RaPId.pdf) 
 
-(J31) **L. Vanfretti**, T. Rabuzin, M. Baudette, M. Murad, iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations, SoftwareX, Available online 18 May 2016, ISSN 2352-7110, [http://dx.doi.org/10.1016/j.softx.2016.05.001](http://dx.doi.org/10.1016/j.softx.2016.05.001) 
+(J31) **L. Vanfretti, **T. Rabuzin, M. Baudette, M. Murad, iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations, SoftwareX, Available online 18 May 2016, ISSN 2352-7110, [http://dx.doi.org/10.1016/j.softx.2016.05.001](http://dx.doi.org/10.1016/j.softx.2016.05.001) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J031_ipsl.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J031_ipsl.pdf) 
 
-(J30) **L. Vanfretti**, M. Baudette, J.L. Dominguez-Garcia, M.S. Almas, A. White, and J.O. Gjerde, “A PMU-Based Real-Time Oscillation Detection Application for Monitoring Wind-Farm Dynamics,” _Electric Power Components and Systems, Taylor & Francis, _Vol. 44, Iss. 2, 2016. [http://dx.doi.org/10.1080/15325008.2015.1101727](http://dx.doi.org/10.1080/15325008.2015.1101727) 
+(J30) **L. Vanfretti**, M. Baudette, J.L. Dominguez-Garcia, M.S. Almas, A. White, and J.O. Gjerde, “A PMU-Based Real-Time Oscillation Detection Application for Monitoring Wind-Farm Dynamics,” *Electric Power Components and Systems, Taylor & Francis, *Vol. 44, Iss. 2, 2016. [http://dx.doi.org/10.1080/15325008.2015.1101727](http://dx.doi.org/10.1080/15325008.2015.1101727) 
 
-Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J030_wind-farm_oscillation_detection.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J030_wind-farm_oscillation_detection.pdf) 
+Author’s copy:
 
-(J29) F. Mahmood, H. Hooshyar and **L. Vanfretti**, "Extracting Steady State Components from Synchrophasor Data Using Kalman Filters," _Energies, _vol. 9, 2016. [http://dx.doi.org/10.3390/en9050315](http://dx.doi.org/10.3390/en9050315) 
+[https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J030_wind-farm_oscillation_detection.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J030_wind-farm_oscillation_detection.pdf) 
 
-Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J029_Kalman_PMU_energies-09-00315.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J029_Kalman_PMU_energies-09-00315.pdf)
+(J29) F. Mahmood, H. Hooshyar and **L. Vanfretti**, "Extracting Steady State Components from Synchrophasor Data Using Kalman Filters," *Energies, *vol. 9, 2016. [http://dx.doi.org/10.3390/en9050315](http://dx.doi.org/10.3390/en9050315) 
 
-(J27) V. S. Perić, X. Bombois and **L. Vanfretti**, "Optimal Signal Selection for Power System Ambient Mode Estimation Using a Prediction Error Criterion," in _IEEE Transactions on Power Systems_, vol. 31, no. 4, pp. 2621-2633, July 2016. [http://dx.doi.org/10.1109/TPWRS.2015.2477490](http://dx.doi.org/10.1109/TPWRS.2015.2477490) 
+***Special Issue of Selected Papers from the EEEIC 2015 Conference. ***
+
+Author’s copy:
+
+[https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J029_Kalman_PMU_energies-09-00315.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J029_Kalman_PMU_energies-09-00315.pdf)
+
+(J27) V. S. Perić, X. Bombois and **L. Vanfretti**, "Optimal Signal Selection for Power System Ambient Mode Estimation Using a Prediction Error Criterion," in *IEEE Transactions on Power Systems*, vol. 31, no. 4, pp. 2621-2633, July 2016. [http://dx.doi.org/10.1109/TPWRS.2015.2477490](http://dx.doi.org/10.1109/TPWRS.2015.2477490) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J027_optimal_pmu_placement_for_modemeters.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J027_optimal_pmu_placement_for_modemeters.pdf) 
 
+<h4>2015 (9 articles)</h4>
 
-#### 2015 (9 articles)
 
-(J28) Y. Chompoobutrgool, and **L. Vanfretti**, “Using PMU Signals from Dominant Paths in Wide-Area Damping Control,” _Sustainable Energy, Grids and Networks (SEGAN),_ Elsevier, vol.4, pp. 16-28, Dec. 2015. [http://dx.doi.org/10.1016/j.segan.2015.09.001](http://dx.doi.org/10.1016/j.segan.2015.09.001) 
+(J28) Y. Chompoobutrgool, and **L. Vanfretti**, “Using PMU Signals from Dominant Paths in Wide-Area Damping Control,” *Sustainable Energy, Grids and Networks (SEGAN),* Elsevier, vol.4, pp. 16-28, Dec. 2015. [http://dx.doi.org/10.1016/j.segan.2015.09.001](http://dx.doi.org/10.1016/j.segan.2015.09.001) 
 
 Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J028_dominant_path_singals_for_pss.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J028_dominant_path_singals_for_pss.pdf)
 
-(J26) X. Guillaud, M.O. Faruque, A. Teninge, A.H. Hariri, **L. Vanfretti**, M. Paolone, V. Dinavahi, P. Mitra, G. Lauss, C. Dufour, P. Forsyth, A.K. Srivastava, K. Strunz, T. Strasser and A.A. Davoudi, “Applications of Real-Time Simulation Technologies in Power and Energy Systems,” in _IEEE Power and Energy Technology Systems Journal_, vol. 2, no. 3, pp. 103-115, Sept. 2015. [http://dx.doi.org/10.1109/JPETS.2015.2445296](http://dx.doi.org/10.1109/JPETS.2015.2445296) 
+(J26) X. Guillaud, M.O. Faruque, A. Teninge, A.H. Hariri, **L. Vanfretti**, M. Paolone, V. Dinavahi, P. Mitra, G. Lauss, C. Dufour, P. Forsyth, A.K. Srivastava, K. Strunz, T. Strasser and A.A. Davoudi, “Applications of Real-Time Simulation Technologies in Power and Energy Systems,” in *IEEE Power and Energy Technology Systems Journal*, vol. 2, no. 3, pp. 103-115, Sept. 2015. [http://dx.doi.org/10.1109/JPETS.2015.2445296](http://dx.doi.org/10.1109/JPETS.2015.2445296) 
 
 Author’s copy: 
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J026_real-time-simulation-applications.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J026_real-time-simulation-applications.pdf)
 
-(J25) M.S. Almas, and **L. Vanfretti**, “RT-HIL Implementation of Hybrid Synchrophasor and GOOSE-based Passive Islanding Schemes,” _IEEE Transactions on Power Delivery, vol. 31, no. 3, pp. 1299-1309, 2015._
+(J25) M.S. Almas, and **L. Vanfretti**, “RT-HIL Implementation of Hybrid Synchrophasor and GOOSE-based Passive Islanding Schemes,” *IEEE Transactions on Power Delivery, vol. 31, no. 3, pp. 1299-1309, 2015.*
 
 [http://dx.doi.org/10.1109/TPWRD.2015.2473669](http://dx.doi.org/10.1109/TPWRD.2015.2473669) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J025_goose_pmu_islanding_protection.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J025_goose_pmu_islanding_protection.pdf) 
 
-(J24) H. Hooshyar, F. Mahmood, **L. Vanfretti**, and M. Baudette “Specification, Implementation and Hardware-in-the-Loop Real-Time Simulation of an Active Distribution Grid,”_ Sustainable Energy, Grids and Networks (SEGAN), Elsevier, _vol. 3, Sept. 2015, pp. 36-51. Available in open-access: [https://dx.doi.org/doi:10.1016/j.segan.2015.06.002](https://dx.doi.org/doi:10.1016/j.segan.2015.06.002) 
+(J24) H. Hooshyar, F. Mahmood, **L. Vanfretti**, and M. Baudette “Specification, Implementation and Hardware-in-the-Loop Real-Time Simulation of an Active Distribution Grid,”* Sustainable Energy, Grids and Networks (SEGAN), Elsevier, *vol. 3, Sept. 2015, pp. 36-51. Available in open-access: [https://dx.doi.org/doi:10.1016/j.segan.2015.06.002](https://dx.doi.org/doi:10.1016/j.segan.2015.06.002) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J024_ADN_MODEL.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J024_ADN_MODEL.pdf) 
 
-(J23) W. Li and **L. Vanfretti**, “A PMU-based state estimator considering classic HVDC links under different control modes”, _Sustainable Energy, Grids and Networks (SEGAN),_ _Elsevier, _vol. 2, pp. 69-82, June 2015.
+(J23) W. Li and **L. Vanfretti**, “A PMU-based state estimator considering classic HVDC links under different control modes”, *Sustainable Energy, Grids and Networks (SEGAN),* *Elsevier, *vol. 2, pp. 69-82, June 2015.
 
 [https://dx.doi.org/doi:10.1016/j.segan.2015.04.004](https://dx.doi.org/doi:10.1016/j.segan.2015.04.004)
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J023_PMU_StateEstimator_for_HVDC.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J023_PMU_StateEstimator_for_HVDC.pdf) 
 
-(J22) N. T. Anh, **L. Vanfretti**, J. Driesen and D. Van Hertem, "A Quantitative Method to Determine ICT Delay Requirements for Wide-Area Power System Damping Controllers," in _IEEE Transactions on Power Systems_, vol. 30, no. 4, pp. 2023-2030, July 2015. [http://dx.doi.org/10.1109/TPWRS.2014.2356480](http://dx.doi.org/10.1109/TPWRS.2014.2356480) 
+(J22) N. T. Anh, **L. Vanfretti**, J. Driesen and D. Van Hertem, "A Quantitative Method to Determine ICT Delay Requirements for Wide-Area Power System Damping Controllers," in *IEEE Transactions on Power Systems*, vol. 30, no. 4, pp. 2023-2030, July 2015. [http://dx.doi.org/10.1109/TPWRS.2014.2356480](http://dx.doi.org/10.1109/TPWRS.2014.2356480) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J022_wacs_dealy_design.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J022_wacs_dealy_design.pdf) 
 
@@ -561,116 +676,123 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J0
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J016_preprocessing_pmu.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J016_preprocessing_pmu.pdf) 
 
+<h4>2014 (3 articles)</h4>
 
-#### 2014 (3 articles)
 
-(J20) C. Sturk, **L. Vanfretti**, Y. Chompoobutrgool, and H. Sandberg, “Non-coherency based structure model reduction of power systems,” _IEEE Transactions on Power Systems_, vol. 29, no. 5, pp. 2418 – 2426, Sept. 2014.[https://dx.doi.org/10.1109/TPWRS.2014.2302871](https://dx.doi.org/10.1109/TPWRS.2014.2302871) 
+(J20) C. Sturk, **L. Vanfretti**, Y. Chompoobutrgool, and H. Sandberg, “Non-coherency based structure model reduction of power systems,” *IEEE Transactions on Power Systems*, vol. 29, no. 5, pp. 2418 – 2426, Sept. 2014.[https://dx.doi.org/10.1109/TPWRS.2014.2302871](https://dx.doi.org/10.1109/TPWRS.2014.2302871) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J020_ModelReduction.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J020_ModelReduction.pdf) 
 
-(J19) V. Peric and **L. Vanfretti**, “Power System Ambient Mode Estimation Considering Spectral Load Properties,” IEEE _Transactions on Power Systems_, vol. 29, no. 3, pp. 1133 – 1143, May 2014. [https://dx.doi.org/10.1109/TPWRS.2013.2292331](https://dx.doi.org/10.1109/TPWRS.2013.2292331) 
+(J19) V. Peric and **L. Vanfretti**, “Power System Ambient Mode Estimation Considering Spectral Load Properties,” IEEE *Transactions on Power Systems*, vol. 29, no. 3, pp. 1133 – 1143, May 2014. [https://dx.doi.org/10.1109/TPWRS.2013.2292331](https://dx.doi.org/10.1109/TPWRS.2013.2292331) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J019_mode_estimation_wforced_osc.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J019_mode_estimation_wforced_osc.pdf) 
 
-(J17) M. Farrokhabadi and **L. Vanfretti**, “An Efficient Automated Topology Processor for State Estimation of Power Transmission Networks”, _Electric Power Systems Research _(Elsevier), Vol. 106, pp. 188-202, Jan. 2014. [http://dx.doi.org/10.1016/j.epsr.2013.08.014](http://dx.doi.org/10.1016/j.epsr.2013.08.014) 
+(J17) M. Farrokhabadi and **L. Vanfretti**, “An Efficient Automated Topology Processor for State Estimation of Power Transmission Networks”, *Electric Power Systems Research *(Elsevier), Vol. 106, pp. 188-202, Jan. 2014. [http://dx.doi.org/10.1016/j.epsr.2013.08.014](http://dx.doi.org/10.1016/j.epsr.2013.08.014) 
 
 Author’s copy: 
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J017_topology_processor.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J017_topology_processor.pdf) 
 
+<h4>2013 (3 articles)</h4>
 
-#### 2013 (3 articles)
 
-(J15) **L. Vanfretti **and M. Farrokhabadi, "Evaluating Constructive Alignment Theory Implementation in a Power Systems Analysis Course Through Repertory Grids," in _IEEE Transactions on Education_, vol. 56, no. 4, pp. 443-452, Nov. 2013. [http://dx.doi.org/10.1109/TE.2013.2255876](http://dx.doi.org/10.1109/TE.2013.2255876)  
+(J15) **L. Vanfretti **and M. Farrokhabadi, "Evaluating Constructive Alignment Theory Implementation in a Power Systems Analysis Course Through Repertory Grids," in *IEEE Transactions on Education*, vol. 56, no. 4, pp. 443-452, Nov. 2013. [http://dx.doi.org/10.1109/TE.2013.2255876](http://dx.doi.org/10.1109/TE.2013.2255876)  
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J015_repertory_grid_teaching.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J015_repertory_grid_teaching.pdf) 
 
-(J14) Yuwa Chompoobutrgool and **L.  Vanfretti**, “Identification of Power System Dominant Inter-Area Oscillation Paths,” _IEEE Transactions on Power Systems_, vol. 28, no. 3, pp. 2798 – 2807, Aug. 2013.
+(J14) Yuwa Chompoobutrgool and **L.  Vanfretti**, “Identification of Power System Dominant Inter-Area Oscillation Paths,” *IEEE Transactions on Power Systems*, vol. 28, no. 3, pp. 2798 – 2807, Aug. 2013.
 
 DOI: [http://dx.doi.org/10.1109/TPWRS.2012.2227840](http://dx.doi.org/10.1109/TPWRS.2012.2227840) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J014_dominant_inter-area_oscillation_paths.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J014_dominant_inter-area_oscillation_paths.pdf) 
 
-(J13) D.M. Laverty, R.J. Best, P. Brogan, I. Al Khatib, **L. Vanfretti**, and D.J. Morrow, “OpenPMU Platform for Open Source Phasor Measurements”, _IEEE Transactions on Instrumentation and Measurements_, vol. 62, no. 4, April 2013, pp. 701 – 709. [http://dx.doi.org/10.1109/TIM.2013.2240920](http://dx.doi.org/10.1109/TIM.2013.2240920) 
+(J13) D.M. Laverty, R.J. Best, P. Brogan, I. Al Khatib, **L. Vanfretti**, and D.J. Morrow, “OpenPMU Platform for Open Source Phasor Measurements”, *IEEE Transactions on Instrumentation and Measurements*, vol. 62, no. 4, April 2013, pp. 701 – 709. [http://dx.doi.org/10.1109/TIM.2013.2240920](http://dx.doi.org/10.1109/TIM.2013.2240920) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J013_openpmu.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J013_openpmu.pdf) 
 
+<h4>2012 (4 articles)</h4>
 
-#### 2012 (4 articles)
 
-(J12) R. Leelaruji and **L.  Vanfretti**, “State-of-the-Art in the Industrial  Implementation of Protective  Relay Functions, Communication  Mechanisms and Synchronized Phasor Capabilities for Electric Power Systems Protection,” _Renewable and Sustainable Energy Reviews_, Elsevier, Vol. 16, no.7, Sept. 2012, pp. 4385-4395. [https://doi.org/10.1016/j.rser.2012.04.043](https://doi.org/10.1016/j.rser.2012.04.043) 
+(J12) R. Leelaruji and **L.  Vanfretti**, “State-of-the-Art in the Industrial  Implementation of Protective  Relay Functions, Communication  Mechanisms and Synchronized Phasor Capabilities for Electric Power Systems Protection,” *Renewable and Sustainable Energy Reviews*, Elsevier, Vol. 16, no.7, Sept. 2012, pp. 4385-4395. [https://doi.org/10.1016/j.rser.2012.04.043](https://doi.org/10.1016/j.rser.2012.04.043) 
 
 Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J012_protection_relays_and_pmus.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J012_protection_relays_and_pmus.pdf) 
 
-(J11) W. Li, **L. Vanfretti **and Y. Chompoobutrgool, “Development and Implementation of Hydro Turbine and Governor Models in a Free and Open Source Software Package,” _Simulation Modelling Practice and Theory_, Elsevier, vol. 24, pp. 84-102, May 2012. [http://dx.doi.org/10.1016/j.simpat.2012.02.005](http://dx.doi.org/10.1016/j.simpat.2012.02.005) 
+(J11) W. Li, **L. Vanfretti **and Y. Chompoobutrgool, “Development and Implementation of Hydro Turbine and Governor Models in a Free and Open Source Software Package,” *Simulation Modelling Practice and Theory*, Elsevier, vol. 24, pp. 84-102, May 2012. [http://dx.doi.org/10.1016/j.simpat.2012.02.005](http://dx.doi.org/10.1016/j.simpat.2012.02.005) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J011_psat_hydro_turbines.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J011_psat_hydro_turbines.pdf)
 
-(J10)_ _R. Leelaruji and **L.  Vanfretti**, “Detailed Modelling, Implementation and Simulation of an “All-in-one” Stability Test System including Power System Protective Devices,” _Simulation Modelling Practice and Theory_, Elsevier, vol. 23, pp. 36-59, April 2012. [http://dx.doi.org/10.1016/j.simpat.2012.01.002](http://dx.doi.org/10.1016/j.simpat.2012.01.002)  
+(J10)* *R. Leelaruji and **L.  Vanfretti**, “Detailed Modelling, Implementation and Simulation of an “All-in-one” Stability Test System including Power System Protective Devices,” *Simulation Modelling Practice and Theory*, Elsevier, vol. 23, pp. 36-59, April 2012. [http://dx.doi.org/10.1016/j.simpat.2012.01.002](http://dx.doi.org/10.1016/j.simpat.2012.01.002)  
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J010_all-in-one-wprotections.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J010_all-in-one-wprotections.pdf) 
 
-(J09)_ **L.  Vanfretti **_and Federico Milano, “Facilitating Constructive Alignment in Power System Engineering Education using Free and Open Source Software,” _IEEE Transactions on Education_, vol. 55, no.3, August 2012, pp. 309-318. [http://dx.doi.org/10.1109/TE.2011.2172211](http://dx.doi.org/10.1109/TE.2011.2172211) 
+(J09)* ***L.  Vanfretti **and Federico Milano, “Facilitating Constructive Alignment in Power System Engineering Education using Free and Open Source Software,” *IEEE Transactions on Education*, vol. 55, no.3, August 2012, pp. 309-318. [http://dx.doi.org/10.1109/TE.2011.2172211](http://dx.doi.org/10.1109/TE.2011.2172211) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J009_CAT_FLOSS.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J009_CAT_FLOSS.pdf) 
 
+<h4>2011 (3 articles)</h4>
 
-#### 2011 (3 articles)
 
-(J08)_ _Y. Chompoobutrgool and **L.  Vanfretti**, “Survey on Power System Stabilizers Control and their Prospective Applications for Power System Damping using Synchrophasor-Based Wide-Area Systems”, _European Transactions on Electrical Power_, Feb. 2011. [http://dx.doi.org/10.1002/etep.545](http://dx.doi.org/10.1002/etep.545)
+(J08)* *Y. Chompoobutrgool and **L.  Vanfretti**, “Survey on Power System Stabilizers Control and their Prospective Applications for Power System Damping using Synchrophasor-Based Wide-Area Systems”, *European Transactions on Electrical Power*, Feb. 2011. [http://dx.doi.org/10.1002/etep.545](http://dx.doi.org/10.1002/etep.545)
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J008_PSS_PMU_Damping.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J008_PSS_PMU_Damping.pdf) 
 
-(J07) _ **L. Vanfretti**_, L. Dosiek, J. W. Pierre, D. Trudnowski, J. H. Chow, R. García-Valle, and U. Aliyu, “Application of Ambient Analysis Techniques for the Estimation of Electromechanical Oscillations from Measured PMU Data in Four Different Power Systems”, _European Transactions on Electrical Power_, Special Issue: Power System Measurement Data and their Applications, vol. 21, no. 4, pp. 1640-1656, May 2011. [http://dx.doi.org/10.1002/etep.507](http://dx.doi.org/10.1002/etep.507) 
+(J07) * ***L. Vanfretti**, L. Dosiek, J. W. Pierre, D. Trudnowski, J. H. Chow, R. García-Valle, and U. Aliyu, “Application of Ambient Analysis Techniques for the Estimation of Electromechanical Oscillations from Measured PMU Data in Four Different Power Systems”, *European Transactions on Electrical Power*, Special Issue: Power System Measurement Data and their Applications, vol. 21, no. 4, pp. 1640-1656, May 2011. [http://dx.doi.org/10.1002/etep.507](http://dx.doi.org/10.1002/etep.507) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J007_mode_estimation_w_forced_oscillations.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J007_mode_estimation_w_forced_oscillations.pdf) 
 
-(J06) **L. Vanfretti**, J. H. Chow, S. Sarawgi, and B. Fardanesh, “A Phasor-Data Based State Estimator Incorporating Phase Bias Correction”, _in IEEE Transactions on Power Systems, _vol. 26, no. 1, pp. 111-119, Feb. 2011. [http://dx.doi.org/10.1109/TPWRS.2010.2047031](http://dx.doi.org/10.1109/TPWRS.2010.2047031) 
+(J06) **L. Vanfretti**, J. H. Chow, S. Sarawgi, and B. Fardanesh, “A Phasor-Data Based State Estimator Incorporating Phase Bias Correction”, *in IEEE Transactions on Power Systems, *vol. 26, no. 1, pp. 111-119, Feb. 2011. [http://dx.doi.org/10.1109/TPWRS.2010.2047031](http://dx.doi.org/10.1109/TPWRS.2010.2047031) 
 
 Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J006_PMU_PSE.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J006_PMU_PSE.pdf) 
 
+<h4>2010 (2 articles)</h4>
 
-#### 2010 (2 articles)
 
-(J05)_ _C.E. Ugalde-Loo, E. Acha, E. Liceaga-Castro, **L. Vanfretti**, “Individual Channel Analysis of the Thyristor- Controlled Series Compensator  Performance,”  _International Journal of Emerging Electric Power Systems_, Vol. 27, No. 1, Jan. 2010. [https://doi.org/10.2202/1553-779X.2190](https://doi.org/10.2202/1553-779X.2190) 
+(J05)* *C.E. Ugalde-Loo, E. Acha, E. Liceaga-Castro, **L. Vanfretti**, “Individual Channel Analysis of the Thyristor- Controlled Series Compensator  Performance,”  *International Journal of Emerging Electric Power Systems*, Vol. 27, No. 1, Jan. 2010. [https://doi.org/10.2202/1553-779X.2190](https://doi.org/10.2202/1553-779X.2190) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J005_icad_tcsc.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J005_icad_tcsc.pdf) 
 
-(J04)_ **L. Vanfretti **_and F. Milano, “The Experience of PSAT (Power System Analysis Toolbox) as a Free and Open Source Software for Power System Education and Research,” _International Journal of Electrical Engineering Education_, vol. 27, no. 1, Jan. 2010. [http://dx.doi.org/10.7227/IJEEE.47.1.5](http://ije.sagepub.com/content/47/1/47.abstract)
+(J04)* ***L. Vanfretti **and F. Milano, “The Experience of PSAT (Power System Analysis Toolbox) as a Free and Open Source Software for Power System Education and Research,” *International Journal of Electrical Engineering Education*, vol. 27, no. 1, Jan. 2010. [http://dx.doi.org/10.7227/IJEEE.47.1.5](http://ije.sagepub.com/content/47/1/47.abstract)
 
 Author’s copy: 
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J004_psat_edu.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J004_psat_edu.pdf) 
 
+<h4>2007-2009 (3 articles)</h4>
 
-#### 2007-2009 (3 articles)
 
-(J03) J. H. Chow, A. Chakrabortty, **L. Vanfretti**, and M. Arcak, “Estimation of Radial Power System Transfer Path Dynamic Parameters using Synchronized Phasor Data”, _IEEE Transactions on Power Systems_, Vol. 23, No.2, pp. 564-571, May 2008. [http://dx.doi.org/10.1109/TPWRS.2008.919315](http://dx.doi.org/10.1109/TPWRS.2008.919315) 
+(J03) J. H. Chow, A. Chakrabortty, **L. Vanfretti**, and M. Arcak, “Estimation of Radial Power System Transfer Path Dynamic Parameters using Synchronized Phasor Data”, *IEEE Transactions on Power Systems*, Vol. 23, No.2, pp. 564-571, May 2008. [http://dx.doi.org/10.1109/TPWRS.2008.919315](http://dx.doi.org/10.1109/TPWRS.2008.919315) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J003_transfer_path_estimation.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J003_transfer_path_estimation.pdf) 
 
-(J02) F. Milano, **L. Vanfretti**, and J.C. Morataya, “An Open Source Power System Virtual Laboratory: The PSAT Case and Experience,” _IEEE Transactions on Education_,  Special Issue on Virtual Laboratories, Vol. 51, No. 1, pp. 17-23, Feb. 2008. DOI: [http://dx.doi.org/10.1109/TE.2007.893354](http://dx.doi.org/10.1109/TE.2007.893354) 
+(J02) F. Milano, **L. Vanfretti**, and J.C. Morataya, “An Open Source Power System Virtual Laboratory: The PSAT Case and Experience,” *IEEE Transactions on Education*,  Special Issue on Virtual Laboratories, Vol. 51, No. 1, pp. 17-23, Feb. 2008. DOI: [http://dx.doi.org/10.1109/TE.2007.893354](http://dx.doi.org/10.1109/TE.2007.893354) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J002_virtual_lab_PSAT.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J002_virtual_lab_PSAT.pdf) 
 
-(J01) C.E. Ugalde-Loo, **L. Vanfretti**, E. Acha and E. Liceaga-Castro, “Synchronous Generators Modeling Using the Framework of Individual Channel Analysis and Design. Part 1,” International_ Journal of Emerging Electric Power Systems_, Vol. 8, Iss. 5. Article 4. November 21, 2007. [https://doi.org/10.2202/1553-779X.1638](https://doi.org/10.2202/1553-779X.1638) 
+(J01) C.E. Ugalde-Loo, **L. Vanfretti**, E. Acha and E. Liceaga-Castro, “Synchronous Generators Modeling Using the Framework of Individual Channel Analysis and Design. Part 1,” International* Journal of Emerging Electric Power Systems*, Vol. 8, Iss. 5. Article 4. November 21, 2007. [https://doi.org/10.2202/1553-779X.1638](https://doi.org/10.2202/1553-779X.1638) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J001_ICAD_synch_generator.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J001_ICAD_synch_generator.pdf) 
 
+<h3>4    Conference Papers and Peer Reviewed Presentations</h3>
 
-### 4    Conference Papers and Peer Reviewed Presentations
 
+<h4>4.1 Peer Reviewed Conference Abstracts/Presentations</h4>
 
-#### 4.1 Peer Reviewed Conference Abstracts/Presentations
 
 Note: I have not documented any peer-reviewed abstracts or presentations prior to those of 2020.
 
+<h5>2024</h5>
 
-##### 2023
+
+(CNPR202401) C. Mishra, L. Vanfretti, J. de la Ree Jr., and K. D. Jones, “Automatically Discerning Power System Dynamics in Synchrophasor Measurements Data Spectra,” NASPI Work Group Meeting and Vendor Show, April 16, 2024, Salt Lake City, Utah. Note: selected for the NASPI-NERC Synchrophasor Data Analytics Workshop. 
+
+Author’s Abstract:  [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CNPR202401_Spectrogram_lvrev_submission.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CNPR202401_Spectrogram_lvrev_submission.pdf) 
+
+<h5>2023</h5>
+
 
 (CNPR202302) C. Mishra, L. Vanfretti, K.D. Jones, R. Matthew Gardner, “Designing Model-Free Time Derivatives in the Frequency Domain for Ambient PMU Data Applications,” NASPI Work Group Meeting and Vendor Show, April 4-5, 2023, Tempe, Arizona. 
 
@@ -690,8 +812,8 @@ Publisher’s website: [https://virtualaviation.aiaa.org/Title/0a26f5ee-1150-424
 
 Author’s copy: [https://youtu.be/_FZJZnI1-MM](https://youtu.be/_FZJZnI1-MM) 
 
+<h5>2022</h5>
 
-##### 2022
 
 (CNPR202202) Glen Halley, Marcelo de Castro, and Luigi Vanfretti, “Model Transformation for Smart Grid Applications,” Wolfram Technology Conference, October 18-21, 2022, Champaign, IL, USA.
 
@@ -701,8 +823,8 @@ Event website: [https://www.wolfram.com/broadcast/video.php?c=511&p=2&v=3752](ht
 
 Author’s copy of peer reviewed presentation: [https://ecse.rpi.edu/~vanfrl/documents/presentations/2022/2022_modeltransf_modprod2022_paper_3.pdf](https://ecse.rpi.edu/~vanfrl/documents/presentations/2022/2022_modeltransf_modprod2022_paper_3.pdf) 
 
+<h5>2021</h5>
 
-##### 2021
 
 (CNPR202105) L. Vanfretti, G. Laera, M. de Castro Fernandes, C. Wang, C. Mishra and K. D. Jones, “Initial steps in deploying and calibrating power system models on a sychrophasor data cloud platform using FMI,” FMI User Meeting at the Modelica Conference 2021, 14th International Modelica Conference, Linköping, September 20-24, 2021. 
 
@@ -733,8 +855,8 @@ Abstract: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/C
 
 Slides: [https://ecse.rpi.edu/~vanfrl/documents/presentations/2021/2021_Hwang_ASHRAE_VDC.pdf](https://ecse.rpi.edu/~vanfrl/documents/presentations/2021/2021_Hwang_ASHRAE_VDC.pdf) 
 
+<h5>***2020***</h5>
 
-##### **_2020_**
 
 (CNPR202002) Marcelo de Castro Fernandes, Manuel Navarro Catalan, Maxime Baudette, and **L. Vanfretti**, “The Open Instance Power System Library (OpenIPSL): A Modelica Library for Phasor Time-Domain Simulations”. User Presentation. Virtual American Modelica Conference, September 22 - 24, 2020.
 
@@ -750,11 +872,11 @@ Video Presentation: [https://bit.ly/32bsm1N](https://bit.ly/32bsm1N)
 
 Publisher’s Website: [https://2020.american.conference.modelica.org/proceedings/userpresentations/userpresentations.html](https://2020.american.conference.modelica.org/proceedings/userpresentations/userpresentations.html) 
 
+<h4></h4>
 
-#### 
 
+<h4>4.2    Peer Reviewed Papers which have been invited to Panels and/or Selected for Presentation in Special Sessions, Workshops and other Special Activities in Conferences</h4>
 
-#### 4.2    Peer Reviewed Papers which have been invited to Panels and/or Selected for Presentation in Special Sessions, Workshops and other Special Activities in Conferences
 
 The papers enumerated in the table below were invited and presented in Panel and Special Paper Sessions in different international conferences. A complete citation for each paper is given below:
 
@@ -766,6 +888,14 @@ The papers enumerated in the table below were invited and presented in Panel and
    <td>Panel/Paper Session
    </td>
    <td>Conference
+   </td>
+  </tr>
+  <tr>
+   <td>CP248, CP247
+   </td>
+   <td>Invited Session (Peer Reviewed): Object Oriented Modeling and Control
+   </td>
+   <td>2024 8th IEEE Conference on Control Technology and Applications (CCTA)
    </td>
   </tr>
   <tr>
@@ -956,76 +1086,100 @@ NASA University Innovation (UI) & University Leadership Initiative (ULI) Session
 </table>
 
 
+<h4>4.3 List of Peer Reviewed Conference Papers</h4>
 
-#### 4.3 List of Peer Reviewed Conference Papers
+
+<h5>2024 (13 Articles)</h5>
 
 
-##### 2024 (10 Articles)
+(CP251) H. Chang and **L. Vanfretti**, “Integrating the IEEE/Cigre DLL Modeling Standard to use of “Real Code” for Power System Analysis using Modelica,” in Proceedings of the American Modelica Conference 2024, Storrs, Connecticut, USA, October 14-16, 2024.
 
-(CP248) L. Vanfretti and C.R. Laughman, “Power System Modeling for Identification and Control Applications using Modelica and OpenIPSL,” Invited Paper, in Proceedings of the 2024 8th IEEE Conference on Control Technology and Applications (CCTA), Newcastle upon Tyne, UK, August 21-23, 2024.
+Author’s Copy: [https://www.researchgate.net/publication/381482867_Integrating_the_IEEECIGRE_DLL_Modeling_Standard_to_Use_Real_Code_Models_for_Power_System_Analysis_in_Modelica_Tools](https://www.researchgate.net/publication/381482867_Integrating_the_IEEECIGRE_DLL_Modeling_Standard_to_Use_Real_Code_Models_for_Power_System_Analysis_in_Modelica_Tools) 
+
+Publisher’s Website: [https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf](https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf) 
+
+(CP250)** L. Vanfretti**, C. R. Laughman and A. Chakrabarty, “Integrating Generative Machine Learning models and Physics-Based Models for Building Simulation,” in Proceedings of the American Modelica Conference 2024, Storrs, Connecticut, USA, October 14-16, 2024.
+
+Author’s Copy: [https://www.researchgate.net/publication/386246087_Integrating_Generative_Machine_Learning_Models_and_Physics-Based_Models_for_Building_Energy_Simulation](https://www.researchgate.net/publication/386246087_Integrating_Generative_Machine_Learning_Models_and_Physics-Based_Models_for_Building_Energy_Simulation) 
+
+Publisher’s Website: [https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf](https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf) 
+
+(CP249) S. Bhattacharjee, **L. Vanfretti** and F. Fachini, “Building Models for Stability and Control Design Analysis using Modelica and the OpenIPSL,”in Proceedings of the American Modelica Conference 2024, Storrs, Connecticut, USA, October 14-16, 2024.
+
+Author’s Copy: [https://www.researchgate.net/publication/381482937_Building_Power_System_Models_for_Stability_and_Control_Design_Analysis_using_Modelica_and_the_OpenIPSL](https://www.researchgate.net/publication/381482937_Building_Power_System_Models_for_Stability_and_Control_Design_Analysis_using_Modelica_and_the_OpenIPSL) 
+
+Publisher’s Website: [https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf](https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf) 
+
+(CP248)** L. Vanfretti** and C.R. Laughman, “Power System Modeling for Identification and Control Applications using Modelica and OpenIPSL,” 2024 IEEE Conference on Control Technology and Applications (CCTA), Newcastle upon Tyne, United Kingdom, 2024, pp. 525-532, doi: 10.1109/CCTA60707.2024.10666594.
+
+*Invited Paper in the “Object Oriented Modeling for Control” Invited Session of the conference.*
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP248_LVCRL_Modelica_PSModeling4Control_CCTA.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP248_LVCRL_Modelica_PSModeling4Control_CCTA.pdf) 
 
-Publisher’s Website: 
+Publisher’s Website: [https://ieeexplore.ieee.org/document/10666594](https://ieeexplore.ieee.org/document/10666594) 
 
-(CP247) A. Chakrabarty, L. Vanfretti, S.A. Bortoff, V.M. Deshpande, Y. Wang, J.A. Paulson, S. Zhan, and C.R. Laughman, “Assessing Building Control Performance Using Physics-Based Simulation Models and Deep Generative Networks,” Invited Paper, in Proceedings of the  the 2024 8th IEEE Conference on Control Technology and Applications (CCTA), Newcastle upon Tyne, UK, August 21-23, 2024.
+(CP247) A. Chakrabarty, **L. Vanfretti**, S.A. Bortoff, V.M. Deshpande, Y. Wang, J.A. Paulson, S. Zhan, and C.R. Laughman, “Assessing Building Control Performance Using Physics-Based Simulation Models and Deep Generative Networks,” 2024 IEEE Conference on Control Technology and Applications (CCTA), Newcastle upon Tyne, United Kingdom, 2024, pp. 547-554, doi: 10.1109/CCTA60707.2024.10666585.
+
+*Invited Paper in the “Object Oriented Modeling for Control” Invited Session of the conference.*
 
 Author’s Copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP247_AK_GenerativeBuildingSimulation_BAX.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP247_AK_GenerativeBuildingSimulation_BAX.pdf) 
 
-Publisher’s Website: 
+Publisher’s Website: [https://ieeexplore.ieee.org/document/10666585](https://ieeexplore.ieee.org/document/10666585) 
 
-(CP246) G. K. Halley, L. Vanfretti and M. de Castro, “Interactive Model Transformations from the Common Information Model (CIM) to Modelica,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
+(CP246) G. K. Halley, **L. Vanfretti** and M. de Castro, “Interactive Model Transformations from the Common Information Model (CIM) to Modelica,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
 
 Author’s Copy: [https://www.researchgate.net/publication/381039589_Interactive_Model_Transformations_from_the_Common_Information_Model_CIM_to_Modelica](https://www.researchgate.net/publication/381039589_Interactive_Model_Transformations_from_the_Common_Information_Model_CIM_to_Modelica) 
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/10612559](https://ieeexplore.ieee.org/document/10612559) 
 
-(CP245) H. Chang and L. Vanfretti, “Power Hardware-in-the-Loop Smart Inverter Testing,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
+(CP245) H. Chang and** L. Vanfretti**, “Power Hardware-in-the-Loop Smart Inverter Testing,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
 
 Author’s Copy: [https://www.researchgate.net/publication/381039460_Power_Hardware-in-the-Loop_Smart_Inverter_Testing](https://www.researchgate.net/publication/381039460_Power_Hardware-in-the-Loop_Smart_Inverter_Testing) 
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/10612677](https://ieeexplore.ieee.org/document/10612677) 
 
-(CP244) H. Chang and L. Vanfretti, “A Power Hardware-in-the-Loop Smart Inverter Testing Facility,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
+(CP244) H. Chang and** L. Vanfretti**, “A Power Hardware-in-the-Loop Smart Inverter Testing Facility,” 2024 9th International Conference on Smart and Sustainable Technologies 2024 (SpliTech), June 25-28, 2024, Split-Bol, Croatia.
 
 Author’s Copy: [https://www.researchgate.net/publication/381039230_A_Power_Hardware-in-the-Loop_Smart_Inverter_Testing_Facility](https://www.researchgate.net/publication/381039230_A_Power_Hardware-in-the-Loop_Smart_Inverter_Testing_Facility) 
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/10612565](https://ieeexplore.ieee.org/document/10612565) 
 
-(CP243) T. Bogodorova, D. Osipov, and L. Vanfretti, “Variational Mode Decomposition as Trusted Data Augmentation in ML-based Power System Stability Assessment,” 20th IFAC Symposium on System Identification, July 17-19, 2024, Boston, MA, USA.
+(CP243) T. Bogodorova, D. Osipov, and **L. Vanfretti**, “Variational Mode Decomposition as Trusted Data Augmentation in ML-based Power System Stability Assessment,” 20th IFAC Symposium on System Identification, July 17-19, 2024, Boston, MA, USA.
 
 Author’s Copy: [https://www.researchgate.net/publication/381038456_Variational_Mode_Decomposition_as_Trusted_Data_Augmentation_in_ML-based_Power_System_Stability_Assessment](https://www.researchgate.net/publication/381038456_Variational_Mode_Decomposition_as_Trusted_Data_Augmentation_in_ML-based_Power_System_Stability_Assessment) 
 
 Publisher’s Website: 
 
-(CP242) L. Vanfretti and X. Bombois, “Power System Oscillation Monitoring and Damping Control Redesign under Ambient Conditions and Multiple Operating Points,” 20th IFAC Symposium on System Identification, July 17-19, 2024, Boston, MA, USA.
+(CP242) **L. Vanfretti** and X. Bombois, “Power System Oscillation Monitoring and Damping Control Redesign under Ambient Conditions and Multiple Operating Points,” 20th IFAC Symposium on System Identification, July 17-19, 2024, Boston, MA, USA. IFAC-PapersOnLine, Volume 58, Issue 15, 2024,
+
+Pages 526-531, ISSN 2405-8963.
 
 Pre-print: [https://hal.science/hal-04283210](https://hal.science/hal-04283210)  
 
 Authors copy: [https://www.researchgate.net/publication/381038871_Power_System_Oscillation_Monitoring_and_Damping_Control_Redesign_under_Ambient_Conditions_and_Multiple_Operating_Points](https://www.researchgate.net/publication/381038871_Power_System_Oscillation_Monitoring_and_Damping_Control_Redesign_under_Ambient_Conditions_and_Multiple_Operating_Points) 
 
-Publisher’s website:
+Publisher’s website:[https://doi.org/10.1016/j.ifacol.2024.08.583](https://doi.org/10.1016/j.ifacol.2024.08.583) 
 
-(CP241 )C. Mishra, L. Vanfretti, J. de la Ree Jr., and K. D. Jones, “Estimating Clock Synchronization Correction Factor from Synchrophasor Angle Drift,” 2024 International Conference on Smart Grid Synchronized Measurements and Analytics, May 21-23, Washington, District of Columbia, USA
+(CP241 )C. Mishra, **L. Vanfretti**, J. de la Ree Jr., and K. D. Jones, “Estimating Clock Synchronization Correction Factor from Synchrophasor Angle Drift,” 2024 International Conference on Smart Grid Synchronized Measurements and Analytics, May 21-23, Washington, District of Columbia, USA
 
 Authors copy: [https://www.researchgate.net/publication/381037186_Estimating_Clock_Synchronization_Correction_Factor_from_Synchrophasor_Phase_Angle_Drift](https://www.researchgate.net/publication/381037186_Estimating_Clock_Synchronization_Correction_Factor_from_Synchrophasor_Phase_Angle_Drift) 
 
 Publisher’s website: [https://ieeexplore.ieee.org/document/10571449](https://ieeexplore.ieee.org/document/10571449) 
 
-(CP240) M. Mansour Lakouraj, C. Mishra, J. de la Ree Jr., L. Vanfretti, K.D. Jones, H. Livani, “Detection of Step Changes in Real-World Synchrophasor Measurements, 2024 IEEE PES General Meeting ,21–25 July 2024, Seattle, Washington.
+(CP240) M. Mansour Lakouraj, C. Mishra, J. de la Ree Jr., **L. Vanfretti**, K.D. Jones, H. Livani, “Detection of Step Changes in Real-World Synchrophasor Measurements, 2024 IEEE PES General Meeting ,21–25 July 2024, Seattle, Washington.
 
 Authors copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP240_MM_stepDetection_pmu.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2024/CP240_MM_stepDetection_pmu.pdf) 
 
 Publisher’s website:
 
-(CP239) C. Mishra, L. Vanfretti, M. Baldwin, J. de la Ree Jr., and K. D. Jones, “Analysis of Generator Forced Oscillations during MOD 25 Testing Exploiting Wavelets,” Hawaii International Conference on System Sciences 2024 (HICSS), Hilton Hawaiian Village Waikiki, January 3-6, 2024.
+(CP239) C. Mishra,** L. Vanfretti**, M. Baldwin, J. de la Ree Jr., and K. D. Jones, “Analysis of Generator Forced Oscillations during MOD 25 Testing Exploiting Wavelets,” Hawaii International Conference on System Sciences 2024 (HICSS), Hilton Hawaiian Village Waikiki, January 3-6, 2024.
 
 Author’s copy: [https://www.researchgate.net/publication/373976223_Analysis_of_Generator_Forced_Oscillations_During_MOD_25_Testing_Exploiting_Wavelets](https://www.researchgate.net/publication/373976223_Analysis_of_Generator_Forced_Oscillations_During_MOD_25_Testing_Exploiting_Wavelets) 
 
 Publisher’s website: [https://hdl.handle.net/10125/106747](https://hdl.handle.net/10125/106747) 
 
+<h5>2023 (16 Articles)</h5>
 
-##### 2023 (16 Articles)
 
 (CP238) M. Podlaski, L. Vanfretti and D. Winkler, "DroneLibrary: Multi-Domain Drone Modeling in Modelica," in Proceedings of the 15th International Modelica Conference 2023, Aachen, October 9-11.
 
@@ -1125,8 +1279,8 @@ Author’s copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conf
 
 Publisher’s website: [https://ieeexplore.ieee.org/document/10102706](https://ieeexplore.ieee.org/document/10102706) 
 
+<h5>2022 (23 Articles)</h5>
 
-##### 2022 (23 Articles)
 
 (CP222) S.A. Dorado-Rojas, **L. Vanfretti**, X. Li, and M.J. Till, “Hardware-in-the-Loop Protection Validation for Dominion Energy’s Blackstart Operations,” 54th annual North American Power Symposium (NAPS 2022), October 9-11, Salt Lake City, Utah.
 
@@ -1292,8 +1446,8 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/9817489](https://ieeexplore.ieee.org/document/9817489) 
 
+<h5>2021 (18 Articles)</h5>
 
-##### 2021 (18 Articles)
 
 (CP199) M. Podlaski, **L. Vanfretti**, J. Monteneiri, A. Khare, J. Lewin and E. Segall, “Towards VR-based Early Design Interaction for Electric Vertical Take-off & Landing (eVTOL) Cyber-Physical Models,” NAFEMS World Congress 2021, Salzburg, Austria, October 25-29, 2021.
 
@@ -1413,11 +1567,11 @@ Publisher’s Website: [https://ieeexplore.ieee.org/document/9372272](https://ie
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP181_ISGT_fluxPMU.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP181_ISGT_fluxPMU.pdf) 
 
+<h5></h5>
 
-##### 
 
+<h5>2020 (14 Articles)</h5>
 
-##### 2020 (14 Articles)
 
 (CP180) S.A. Dorado-Rojas, B. Vinzamuri, and **L. Vanfretti**, “Orthogonal Laguerre Recurrent Neural Networks,” Third Workshop on Machine Learning and the Physical Sciences, 34th Annual Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada, December 11, 2020. Online: [https://ml4physicalsciences.github.io/2020/](https://ml4physicalsciences.github.io/2020/) 
 
@@ -1515,13 +1669,13 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Github repository: [https://github.com/ALSETLab/Time-Domain-Simulation-Performance-Benchmark](https://github.com/ALSETLab/Time-Domain-Simulation-Performance-Benchmark)
 
+<h5>
+    </h5>
 
-##### 
-    
 
+<h5>
+    2019 (13 Articles)</h5>
 
-##### 
-    2019 (13 Articles)
 
 (CP166) P.M. Adhikari and **L. Vanfretti, **“Delay Analysis of a Storageless Hard Real-Time Synchronization Gateway,” The IASTED International Conference on Control and Optimization of Renewable Energy Systems, CORES 2019, December 6 – 7, 2019, Anaheim, California, USA.
 
@@ -1603,13 +1757,13 @@ Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2019/CP157_ecp19157062_Resynch.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2019/CP157_ecp19157062_Resynch.pdf)
 
+<h5>
+    </h5>
 
-##### 
-    
 
+<h5>
+    2018	(4 Articles)</h5>
 
-##### 
-    2018	(4 Articles)
 
 (CP153) Miguel Aguilera, **Luigi Vanfretti**, Tetiana Bogodorova, Francisco Gómez, Coalesced Gas Turbine and Power System Modeling and Simulation using Modelica, Proceedings of The American Modelica Conference 2018, October 9-10, Samberg Conference Center, Cambridge MA, USA, Volume , Issue 154, 2019-02-26, Pages 93-102, ISSN 1650-3740. Online: [http://dx.doi.org/10.3384/ecp1815493](http://dx.doi.org/10.3384/ecp1815493) 
 
@@ -1629,13 +1783,13 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2018/CP150_Marcelo_Monotri.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2018/CP150_Marcelo_Monotri.pdf) 
 
+<h5>
+    </h5>
 
-##### 
-    
 
+<h5>
+    2017	(17 articles)</h5>
 
-##### 
-    2017	(17 articles)
 
 (CP149) M. A. Adib Murad, **L. Vanfretti**, M. Rokonuzzaman, and R. A. Tuhin, “Enhancing Engineering Studies in Developing Countries using OpenModelica,” 2017 4th International Conference on Advances in Electrical Engineering (ICAEE 2017), Dhaka, Bangladesh, 28 Sep - 30 Sep 2017. [http://icaee.net](http://icaee.net) 
 
@@ -1737,11 +1891,11 @@ Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2017/CP133_Probing_PMU_Hawaii.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2017/CP133_Probing_PMU_Hawaii.pdf) 
 
+<h5></h5>
 
-##### 
 
+<h5>2016 (12 articles)</h5>
 
-##### 2016 (12 articles)
 
 **Papers in the IEEE IECON 2016 Conference (1):**
 
@@ -1831,11 +1985,11 @@ Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2016/CP121_TBLVKT_TCL_AnciallaryServices.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2016/CP121_TBLVKT_TCL_AnciallaryServices.pdf) 
 
+<h5></h5>
 
-##### 
 
+<h5>2015 (30 articles)</h5>
 
-##### 2015 (30 articles)
 
 **Papers in AEECT 2015 (1):**
 
@@ -1917,7 +2071,7 @@ Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP105_WACS_Damping_Experimental_Setup.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP105_WACS_Damping_Experimental_Setup.pdf) 
 
-(CP104) J. Lavenius, L. Vanfretti and G. N. Taranto, "Performance assessment of PMU-based estimation Methods of Thevenin Equivalents for real-time voltage stability monitoring," _2015 IEEE 15th International Conference on Environment and Electrical Engineering (EEEIC)_, Rome, 2015, pp. 1977-1982. doi: 10.1109/EEEIC.2015.7165477 Online: [https://ieeexplore.ieee.org/document/7165477](https://ieeexplore.ieee.org/document/7165477)
+(CP104) J. Lavenius, L. Vanfretti and G. N. Taranto, "Performance assessment of PMU-based estimation Methods of Thevenin Equivalents for real-time voltage stability monitoring," *2015 IEEE 15th International Conference on Environment and Electrical Engineering (EEEIC)*, Rome, 2015, pp. 1977-1982. doi: 10.1109/EEEIC.2015.7165477 Online: [https://ieeexplore.ieee.org/document/7165477](https://ieeexplore.ieee.org/document/7165477)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP104_Lavenius_VoltageStability_PMU_MEthods_Comparison.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP104_Lavenius_VoltageStability_PMU_MEthods_Comparison.pdf) 
 
@@ -1973,15 +2127,15 @@ Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 **Papers in the IEEE ISGT 2015 Conference (4):**
 
-(CP92) **L. Vanfretti, **I. Al Khatib, and M. S. Almas, “Real-Time Data Mediation for Synchrophasor Application Development Compliant with IEEE C37.118.2,”  _2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)_, Washington, DC, 2015, pp. 1-5.  Online: [https://ieeexplore.ieee.org/document/7131910](https://ieeexplore.ieee.org/document/7131910)
+(CP92) **L. Vanfretti, **I. Al Khatib, and M. S. Almas, “Real-Time Data Mediation for Synchrophasor Application Development Compliant with IEEE C37.118.2,”  *2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)*, Washington, DC, 2015, pp. 1-5.  Online: [https://ieeexplore.ieee.org/document/7131910](https://ieeexplore.ieee.org/document/7131910)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP92_BabelFish_Desktop.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP92_BabelFish_Desktop.pdf) 
 
-(CP91) J. Kilter, M.S. Almas, I. Palu, and **L. Vanfretti,** “Experiences with Dynamic PMU Compliance Testing using Standard Relay Testing Equipment,”  _2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)_, Washington, DC, 2015, pp. 1-5. Online: [https://ieeexplore.ieee.org/document/7131833](https://ieeexplore.ieee.org/document/7131833)
+(CP91) J. Kilter, M.S. Almas, I. Palu, and **L. Vanfretti,** “Experiences with Dynamic PMU Compliance Testing using Standard Relay Testing Equipment,”  *2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)*, Washington, DC, 2015, pp. 1-5. Online: [https://ieeexplore.ieee.org/document/7131833](https://ieeexplore.ieee.org/document/7131833)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP91_PMU_Testing_PMU_SteadyState.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP91_PMU_Testing_PMU_SteadyState.pdf) 
 
-(CP90) F.R. Segundo and **L. Vanfretti,** “Static Stability Indexes for the Classification of Power System Time-domain Simulations,”  _2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)_, Washington, DC, 2015, pp. 1-5. Online: [https://ieeexplore.ieee.org/document/7131846](https://ieeexplore.ieee.org/document/7131846)
+(CP90) F.R. Segundo and **L. Vanfretti,** “Static Stability Indexes for the Classification of Power System Time-domain Simulations,”  *2015 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)*, Washington, DC, 2015, pp. 1-5. Online: [https://ieeexplore.ieee.org/document/7131846](https://ieeexplore.ieee.org/document/7131846)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP90_Classification_Indices_Static_Transient.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2015/CP90_Classification_Indices_Static_Transient.pdf) 
 
@@ -1991,11 +2145,11 @@ Abstract of a Published IEEE Transactions on Power Systems for presentation in t
 
 Author’s copy of journal paper: [https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J020_ModelReduction.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/journal/J020_ModelReduction.pdf) 
 
+<h5></h5>
 
-##### 
 
+<h5>2014 (23 articles)</h5>
 
-##### 2014 (23 articles)
 
 **In the IEEE IES IECON14 Conference (2)**
 
@@ -2151,13 +2305,13 @@ Author’s Copy: [https://www.researchgate.net/publication/269308767_Implementat
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/6816444](https://ieeexplore.ieee.org/document/6816444) 
 
-Author’s copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2014/CP66_2014_MBLV_Validation_paper_red.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2014/CP66_2014_MBLV_Validation_paper_red.pdf) 
+Author’s copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2014/CP066_2014_MBLV_Validation_paper_red.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2014/CP066_2014_MBLV_Validation_paper_red.pdf) 
+
+<h5></h5>
 
 
-##### 
+<h5>2013 (22 articles)</h5>
 
-
-##### 2013 (22 articles)
 
 (CP65) R. Leelaruji, **L. Vanfretti**, J. O. Gjerde and S. Lovlund, "PMU-based voltage instability detection through linear regression," 2013 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), Kowloon, 2013, pp. 1-6. doi: 10.1109/APPEEC.2013.6837108
 
@@ -2219,7 +2373,7 @@ Publisher’s Website: [https://ieeexplore.ieee.org/document/6672476](https://ie
 
 Author’s Copy: [https://www.researchgate.net/publication/368830127_Estimation_of_Electromechanical_Oscillations_in_the_Nordic_Grid_using_Ambient_Data_Analysis_-_Paper_presented_at_the_panel_session_on_IEEE_Task_Force_Identification_of_Electromechanical_Modes_in_Power](https://www.researchgate.net/publication/368830127_Estimation_of_Electromechanical_Oscillations_in_the_Nordic_Grid_using_Ambient_Data_Analysis_-_Paper_presented_at_the_panel_session_on_IEEE_Task_Force_Identification_of_Electromechanical_Modes_in_Power) 
 
-(CP54) Yuwa Chompoobutrgool and **L.  Vanfretti**, “Identification of Power System Dominant Inter-Area Oscillation Paths,” submitted, IEEE PES General Meeting 2013 – Abstract for presentation of paper accepted in _IEEE Transactions on Power Systems_, November 2012.  IEEE PES General Meeting 2013. 
+(CP54) Yuwa Chompoobutrgool and **L.  Vanfretti**, “Identification of Power System Dominant Inter-Area Oscillation Paths,” submitted, IEEE PES General Meeting 2013 – Abstract for presentation of paper accepted in *IEEE Transactions on Power Systems*, November 2012.  IEEE PES General Meeting 2013. 
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/6672202](https://ieeexplore.ieee.org/document/6672202)  
 
@@ -2277,49 +2431,49 @@ Publisher’s website: [http://www.cired.net/publications/cired2013/index.html](
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2013/CP045_cired2013_iec61850_protectiontesting.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2013/CP045_cired2013_iec61850_protectiontesting.pdf) 
 
-(CP44)_ _M.S. Almas and **L. Vanfretti**, “Methodologies for Power Protection Relay Testing: From Conventional to Real-Time Hardware-in-the-Loop (HIL) Approaches,” International Conference on Power System Transients (IPST), 2013.
+(CP44)* *M.S. Almas and **L. Vanfretti**, “Methodologies for Power Protection Relay Testing: From Conventional to Real-Time Hardware-in-the-Loop (HIL) Approaches,” International Conference on Power System Transients (IPST), 2013.
 
 Publisher’s Website: [https://www.ipstconf.org/Proc_IPST2013.php](https://www.ipstconf.org/Proc_IPST2013.php)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2013/CP044_IPST_Vancouver_protection_testing_RT.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2013/CP044_IPST_Vancouver_protection_testing_RT.pdf) 
 
+<h5></h5>
 
-##### 
+
+<h5>2012 (23 articles)</h5>
 
 
-##### 2012 (23 articles)
-
-(CP43) **L. Vanfretti **and M. Farrokhabadi, “Implementing Constructive Alignment Theory in a Power System Analysis Course using a Consensus Model,” _IEEE ICELIE ’2012_, 6<sup><em>th </em></sup>IEEE International Conference on E-Learning in Industrial Electronics.
+(CP43) **L. Vanfretti **and M. Farrokhabadi, “Implementing Constructive Alignment Theory in a Power System Analysis Course using a Consensus Model,” *IEEE ICELIE ’2012*, 6*<sup>th </sup>*IEEE International Conference on E-Learning in Industrial Electronics.
 
 Publisher’s Website: [https://doi.org/10.1109/ICELIE.2012.6471154](https://doi.org/10.1109/ICELIE.2012.6471154) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP043_constructive_alighment_conf_paper.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP043_constructive_alighment_conf_paper.pdf) 
 
-(CP42) Rujiroj Leelaruji and **L. Vanfretti**, “Utilizing Synchrophasor-Based Protection Systems with VSC-HVDC Controls to Mitigate Voltage Instability,” _IEEE PES International Conference on Power Systems Technology (POWERCON)_, Auckland, New Zealand, Oct. 30 - Nov. 2, 2012.
+(CP42) Rujiroj Leelaruji and **L. Vanfretti**, “Utilizing Synchrophasor-Based Protection Systems with VSC-HVDC Controls to Mitigate Voltage Instability,” *IEEE PES International Conference on Power Systems Technology (POWERCON)*, Auckland, New Zealand, Oct. 30 - Nov. 2, 2012.
 
 Publisher’s Website: [https://doi.org/10.1109/PowerCon.2012.6401385](https://doi.org/10.1109/PowerCon.2012.6401385) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP042_PMU+HVDC_4_vs_control.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP042_PMU+HVDC_4_vs_control.pdf) 
 
-(CP41) M. Shoaib Almas and **L. Vanfretti**, “Real-Time Hardware-in-the-Loop Validation for Power System Protection and Communication,” **Invited Presentation**, Panel Session on Real Time Simulation of Smart Grids, _IEEE PES ISGT Europe, _Berlin, October 2012.
+(CP41) M. Shoaib Almas and **L. Vanfretti**, “Real-Time Hardware-in-the-Loop Validation for Power System Protection and Communication,” **Invited Presentation**, Panel Session on Real Time Simulation of Smart Grids, *IEEE PES ISGT Europe, *Berlin, October 2012.
 
 Publisher’s Website: [http://www.ieee-isgt-2012.eu/events/real-time-simulation-of-smart-grids/](http://www.ieee-isgt-2012.eu/events/real-time-simulation-of-smart-grids/) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP041_Panel_Protection-Communication_Vanfretti_IEEE-PES-ISGT-Europe-2012.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP041_Panel_Protection-Communication_Vanfretti_IEEE-PES-ISGT-Europe-2012.pdf) 
 
-(CP40) K. Weyrich, R. Leelaruji, W. Kuehn and **L.  Vanfretti**, “Real-Time Implementation of an Automatic Voltage Stabilizer for HVDC Control,” _IEEE PES ISGT Europe_, Berlin, October 2012.
+(CP40) K. Weyrich, R. Leelaruji, W. Kuehn and **L.  Vanfretti**, “Real-Time Implementation of an Automatic Voltage Stabilizer for HVDC Control,” *IEEE PES ISGT Europe*, Berlin, October 2012.
 
 Publisher’s Website: [https://doi.org/10.1109/ISGTEurope.2012.6465848](https://doi.org/10.1109/ISGTEurope.2012.6465848) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP040_kim_AVS_hvdc.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP040_kim_AVS_hvdc.pdf) 
 
-(CP39)_  **L. Vanfretti**_, S. Bengtsson,  Vedran Perić, and Jan O. Gjerde, “Effects of Forced Oscillations on Power System Damping Estimation,”  _International  Workshop on Applied Measurements  for Power Systems (AMPS)_, September 22-24, 2012, Aachen, Germany.
+(CP39)*  ***L. Vanfretti**, S. Bengtsson,  Vedran Perić, and Jan O. Gjerde, “Effects of Forced Oscillations on Power System Damping Estimation,”  *International  Workshop on Applied Measurements  for Power Systems (AMPS)*, September 22-24, 2012, Aachen, Germany.
 
 Publisher’s Website: [https://doi.org/10.1109/AMPS.2012.6344015](https://doi.org/10.1109/AMPS.2012.6344015) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP039_LV_EffectsOfForcedOscillationsOnDampingEstimation.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP039_LV_EffectsOfForcedOscillationsOnDampingEstimation.pdf) 
 
-(CP38)_  _Yuwa Chompoobutrlgool and **L.  Vanfretti**, “A fundamental Study on Damping Control Design using PMU signals from Dominant Inter-Area Oscillation Paths,” _North American Power Symposium 2012_, September 9-11, 2012, Illinois, USA.
+(CP38)*  *Yuwa Chompoobutrlgool and **L.  Vanfretti**, “A fundamental Study on Damping Control Design using PMU signals from Dominant Inter-Area Oscillation Paths,” *North American Power Symposium 2012*, September 9-11, 2012, Illinois, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/NAPS.2012.6336336](https://doi.org/10.1109/NAPS.2012.6336336) 
 
@@ -2331,19 +2485,19 @@ Publisher’s Website: [https://doi.org/10.1109/IECON.2012.6389585](https://doi.
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP037_Almas_OC_Relay_Model.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP037_Almas_OC_Relay_Model.pdf) 
 
-(CP36)_ _M. Farrokhabadi and **L. Vanfretti**, “State-of-the-Art of Topology Processors for EMS and PMU Applications and Their Limitations,” _IEEE IECON ’2012_, 25-28 October, Montréal, Canada.
+(CP36)* *M. Farrokhabadi and **L. Vanfretti**, “State-of-the-Art of Topology Processors for EMS and PMU Applications and Their Limitations,” *IEEE IECON ’2012*, 25-28 October, Montréal, Canada.
 
 Publisher’s Website: [https://doi.org/10.1109/IECON.2012.6388564](https://doi.org/10.1109/IECON.2012.6388564) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP036_topologyprocessors_stateoftheart.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP036_topologyprocessors_stateoftheart.pdf) 
 
-(CP35)_ _Bayram Tounsi, Alexandre Henry and **L. Vanfretti**, “Modelling and Dynamic Analysis of Offshore Wind Farms According to the French TSO Grid Code,” _IEEE IECON ’2012_, 25-28 October, Montréal, Canada.
+(CP35)* *Bayram Tounsi, Alexandre Henry and **L. Vanfretti**, “Modelling and Dynamic Analysis of Offshore Wind Farms According to the French TSO Grid Code,” *IEEE IECON ’2012*, 25-28 October, Montréal, Canada.
 
 Publisher’s Website: [https://doi.org/10.1109/IECON.2012.6388540](https://doi.org/10.1109/IECON.2012.6388540) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP035_wind_dynamics_iecon_conf.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP035_wind_dynamics_iecon_conf.pdf) 
 
-(CP34)_ _Wei Li, **L. Vanfretti**, and M. Farrokhabadi, “Modeling of Custom Hydro Turbine and Governor Models for Real-Time Simulation,” **Invited  Paper**, Special Session: “RT and HIL Simulation for Approaching Complexity in Future Power & Energy Systems,” IEEE Workshop on Complexity in Engineering, June 11-13, 2012. Aachen, Germany.
+(CP34)* *Wei Li, **L. Vanfretti**, and M. Farrokhabadi, “Modeling of Custom Hydro Turbine and Governor Models for Real-Time Simulation,” **Invited  Paper**, Special Session: “RT and HIL Simulation for Approaching Complexity in Future Power & Energy Systems,” IEEE Workshop on Complexity in Engineering, June 11-13, 2012. Aachen, Germany.
 
 Publisher’s Website: [https://doi.org/10.1109/CompEng.2012.6242950](https://doi.org/10.1109/CompEng.2012.6242950)  
 
@@ -2355,67 +2509,67 @@ Publisher’s Website: [https://doi.org/10.1109/CompEng.2012.6242954](https://do
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP033_kim_pmu_vs_with_hvdc.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP033_kim_pmu_vs_with_hvdc.pdf) 
 
-(CP32)_  _Y. Chompoobutrgool and **L. Vanfretti**, “Persistence of Multiple Interaction Paths for Individual Inter-Area Modes,” **Invited Paper**, Panel Session: “Stability and Control in Smart Power Grid,” _IFAC _8<sup><em>th  Power Plant and Power Systems Controls Symposium</em></sup>, 2012.
+(CP32)*  *Y. Chompoobutrgool and **L. Vanfretti**, “Persistence of Multiple Interaction Paths for Individual Inter-Area Modes,” **Invited Paper**, Panel Session: “Stability and Control in Smart Power Grid,” *IFAC *8*<sup>th  </sup>Power Plant and Power Systems Controls Symposium*, 2012.
 
 Publisher’s Website: [https://doi.org/10.3182/20120902-4-FR-2032.00005](https://doi.org/10.3182/20120902-4-FR-2032.00005) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP032_ifac2_persistence_multiple_interaction_paths.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP032_ifac2_persistence_multiple_interaction_paths.pdf) 
 
-(CP31) Y. Chompoobutrgool and **L.  Vanfretti**, “On the Persistence of Dominant Inter-Area Paths in Power Systems,” _IFAC _8<sup><em>th Power Plant and Power Systems Controls Symposium</em></sup>, 2012.
+(CP31) Y. Chompoobutrgool and **L.  Vanfretti**, “On the Persistence of Dominant Inter-Area Paths in Power Systems,” *IFAC *8*<sup>th </sup>Power Plant and Power Systems Controls Symposium*, 2012.
 
 Publisher’s Website: [https://doi.org/10.3182/20120902-4-FR-2032.00028](https://doi.org/10.3182/20120902-4-FR-2032.00028) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP031_ifac_dominant_path_persistence.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP031_ifac_dominant_path_persistence.pdf) 
 
-(CP30) _ **L. Vanfretti**_, et al, “SmarTS Lab: A Laboratory for Developing Applications for WAMPAC Systems,” _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP30) * ***L. Vanfretti**, et al, “SmarTS Lab: A Laboratory for Developing Applications for WAMPAC Systems,” *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344839](https://doi.org/10.1109/PESGM.2012.6344839) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP030_smartslab_paper.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP030_smartslab_paper.pdf) 
 
-(CP29)_ _Y. Chompoobutrgool, W. Li, and **L. Vanfretti**, “Development and Implementation of the Nordic Grid Model for Power System Small-Signal and Transient Stability Studies in a Free and Open Source Software,” _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP29)* *Y. Chompoobutrgool, W. Li, and **L. Vanfretti**, “Development and Implementation of the Nordic Grid Model for Power System Small-Signal and Transient Stability Studies in a Free and Open Source Software,” *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344571](https://doi.org/10.1109/PESGM.2012.6344571) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP029_nordic_model_psat.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP029_nordic_model_psat.pdf) 
 
-(CP28)_ _C. Sturk, **L. Vanfretti**, Y. Chompoobutrgool, H. Sandberg, “Structured Power System Model Reduction of Non-Coherent Areas,” Invited Paper, Panel Session:  “Distributed Control — Bringing together the power and control communities”, _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP28)* *C. Sturk, **L. Vanfretti**, Y. Chompoobutrgool, H. Sandberg, “Structured Power System Model Reduction of Non-Coherent Areas,” Invited Paper, Panel Session:  “Distributed Control — Bringing together the power and control communities”, *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344913](https://doi.org/10.1109/PESGM.2012.6344913) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP028_sturk_noncoherent.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP028_sturk_noncoherent.pdf) 
 
-(CP27) _ _K. Uhlen, **L. Vanfretti**, M.M. de Oliveira, A. B. Leirbukt, V. H. Aarstrand, and J.O. Gjerde, “Wide-Area Power Oscillation Damper Implementation and Testing in the Norwegian Transmission Network,” **Invited  Paper**, Panel Session: “Synchrophasor  Measurement Applications in Power Industry to Enhance Power System Reliability”, _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP27) * *K. Uhlen, **L. Vanfretti**, M.M. de Oliveira, A. B. Leirbukt, V. H. Aarstrand, and J.O. Gjerde, “Wide-Area Power Oscillation Damper Implementation and Testing in the Norwegian Transmission Network,” **Invited  Paper**, Panel Session: “Synchrophasor  Measurement Applications in Power Industry to Enhance Power System Reliability”, *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344837](https://doi.org/10.1109/PESGM.2012.6344837) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP027_wapod_testing.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP027_wapod_testing.pdf) 
 
-(CP26)_ _R. Leelaruji, **L. Vanfretti**, and M.S. Almas, “Voltage Stability Monitoring using Sensitivities Computed from Synchronized Phasor Measurement Data,” **Invited  Paper**, Panel Session:  “Wide-Area Early Warning Systems”, _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP26)* *R. Leelaruji, **L. Vanfretti**, and M.S. Almas, “Voltage Stability Monitoring using Sensitivities Computed from Synchronized Phasor Measurement Data,” **Invited  Paper**, Panel Session:  “Wide-Area Early Warning Systems”, *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344838](https://doi.org/10.1109/PESGM.2012.6344838) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP026_pmu_vs_sensitivities.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP026_pmu_vs_sensitivities.pdf) 
 
-(CP25)_ _D.M. Laverty, **L. Vanfretti**, R.J. Best, D.J. Morrow, L. Nordström, and M. Chenine, “OpenPMU Technology Platform for Synchrophasor Research Applications,” _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP25)* *D.M. Laverty, **L. Vanfretti**, R.J. Best, D.J. Morrow, L. Nordström, and M. Chenine, “OpenPMU Technology Platform for Synchrophasor Research Applications,” *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6345398](https://doi.org/10.1109/PESGM.2012.6345398) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP025_openpmu.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP025_openpmu.pdf) 
 
-(CP24) A.T. Al-Hammouri, L. Nordström, M. Chenine, **L. Vanfretti**, N. Honeth, and R. Leelaruji, “Virtualization of Synchronized Phasor Measurement Units within Real-Time Simulators for Smart Grid Applications,” _IEEE PES General Meeting 2012_, San Diego, CA, USA.
+(CP24) A.T. Al-Hammouri, L. Nordström, M. Chenine, **L. Vanfretti**, N. Honeth, and R. Leelaruji, “Virtualization of Synchronized Phasor Measurement Units within Real-Time Simulators for Smart Grid Applications,” *IEEE PES General Meeting 2012*, San Diego, CA, USA.
 
 Publisher’s Website: [https://doi.org/10.1109/PESGM.2012.6344949](https://doi.org/10.1109/PESGM.2012.6344949) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP024_ATH_virtualPMU.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP024_ATH_virtualPMU.pdf) 
 
-(CP23)_ **L. Vanfretti**_, S. Bengtsson, V.H. Aarstrand, and J.O. Gjerde, “Applications of Spectral Analysis Techniques for Estimating the Nordic Grid’s Low Frequency Electromechanical Oscillations,” **Invited  **Paper, Special Session: “Development of System ID Methods for Power System Dynamics”, _IFAC Symposium on System Identification Brussels_, 2012.
+(CP23)* ***L. Vanfretti**, S. Bengtsson, V.H. Aarstrand, and J.O. Gjerde, “Applications of Spectral Analysis Techniques for Estimating the Nordic Grid’s Low Frequency Electromechanical Oscillations,” **Invited  **Paper, Special Session: “Development of System ID Methods for Power System Dynamics”, *IFAC Symposium on System Identification Brussels*, 2012.
 
 Publisher’s Website: [https://www.sciencedirect.com/science/article/pii/S1474667015380836](https://www.sciencedirect.com/science/article/pii/S1474667015380836)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP023_LV_Forced_Osc_SysID2012.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP023_LV_Forced_Osc_SysID2012.pdf) 
 
-(CP22)_ _C. Sturk, **L. Vanfretti**, F. Milano, and H. Sandberg, “Structured Model Reduction of Power Systems,” American Control Conference (ACC), June 27-29, 2012, Montréal, Canada.
+(CP22)* *C. Sturk, **L. Vanfretti**, F. Milano, and H. Sandberg, “Structured Model Reduction of Power Systems,” American Control Conference (ACC), June 27-29, 2012, Montréal, Canada.
 
 Publisher’s Website: [https://doi.org/10.1109/ACC.2012.6315207](https://doi.org/10.1109/ACC.2012.6315207) 
 
@@ -2427,37 +2581,37 @@ Publisher’s Website: [http://www.jkuat.ac.ke/9th-international-conference-on-p
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP021_UO_LV_nigeria_pscollapse.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2012/CP021_UO_LV_nigeria_pscollapse.pdf) 
 
+<h5></h5>
 
-##### 
+
+<h5>2011 (6 articles)</h5>
 
 
-##### 2011 (6 articles)
-
-(CP20)_  _N. Honeth, A. Saleem, K. Zhu, **L.  Vanfretti **and L. Nordström, “Decentralized Topology Inference of Electrical Distribution Networks,” IEEE PES ISGT Europe, Manchester, UK. Dec. 5-7, 2011.
+(CP20)*  *N. Honeth, A. Saleem, K. Zhu, **L.  Vanfretti **and L. Nordström, “Decentralized Topology Inference of Electrical Distribution Networks,” IEEE PES ISGT Europe, Manchester, UK. Dec. 5-7, 2011.
 
 Publisher’s Website: [https://doi.org/10.1109/ISGT.2012.6175630](https://doi.org/10.1109/ISGT.2012.6175630)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP020_NC_topologyinference.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP020_NC_topologyinference.pdf) 
 
-(CP19)_  **L. Vanfretti **_and J.H. Chow, “Synchrophasor Data Applications for Wide-Area Systems,” **Invited Paper**, Power System Computation Conference 2011, Stockholm, Sweden.
+(CP19)*  ***L. Vanfretti **and J.H. Chow, “Synchrophasor Data Applications for Wide-Area Systems,” **Invited Paper**, Power System Computation Conference 2011, Stockholm, Sweden.
 
 Publisher’s Website: [https://pscc-central.epfl.ch/papers-repo](https://pscc-central.epfl.ch/papers-repo)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP019_LV_JC_psccpaper.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP019_LV_JC_psccpaper.pdf) 
 
-(CP18)_ _L. Nordström, M. Chenine, Z. Kun, and **L. Vanfretti**, “Information and Communication System Architectures for Wide-Area Monitoring and Control Applications,” **Invited Paper**, Power System Computation Conference 2011, Stockholm, Sweden.
+(CP18)* *L. Nordström, M. Chenine, Z. Kun, and **L. Vanfretti**, “Information and Communication System Architectures for Wide-Area Monitoring and Control Applications,” **Invited Paper**, Power System Computation Conference 2011, Stockholm, Sweden.
 
 Publisher’s Website: [https://pscc-central.epfl.ch/papers-repo](https://pscc-central.epfl.ch/papers-repo)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP018_LNETC_WAMSComm.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP018_LNETC_WAMSComm.pdf) 
 
-(CP17)_ _M. Chenine, **L. Vanfretti**, S. Bengtsson, and L. Nordström, “Implementation of an Experimental Wide- Area Monitoring System for Synchronized Phasor Measurement Application Development,”  **Invited Paper**, International Implementation Experience and Prospective Applications of Synchrophasors and their Supporting Infrastructures Panel Session, IEEE PES General Meeting 2011, Detroit, MI.
+(CP17)* *M. Chenine, **L. Vanfretti**, S. Bengtsson, and L. Nordström, “Implementation of an Experimental Wide- Area Monitoring System for Synchronized Phasor Measurement Application Development,”  **Invited Paper**, International Implementation Experience and Prospective Applications of Synchrophasors and their Supporting Infrastructures Panel Session, IEEE PES General Meeting 2011, Detroit, MI.
 
 Publisher’s Website: [https://doi.org/10.1109/PES.2011.6039672](https://doi.org/10.1109/PES.2011.6039672) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP017_MCLVSBLN_WAMSImplementation.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP017_MCLVSBLN_WAMSImplementation.pdf) 
 
-(CP16)_ **L. Vanfretti**_, D. Van Hertem, L. Nordström, and J. O. Gjerde, “A Smart Transmission Grid for Europe: Research Challenges in Developing Grid Enabling Technologies,” **Invited Paper**, Bringing Smart Grids to the Next Level Panel Session, Working Group on European Electricity  Infrastructure, IEEE PES General Meeting 2011, Detroit, MI.
+(CP16)* ***L. Vanfretti**, D. Van Hertem, L. Nordström, and J. O. Gjerde, “A Smart Transmission Grid for Europe: Research Challenges in Developing Grid Enabling Technologies,” **Invited Paper**, Bringing Smart Grids to the Next Level Panel Session, Working Group on European Electricity  Infrastructure, IEEE PES General Meeting 2011, Detroit, MI.
 
 Publisher’s Website: [https://doi.org/10.1109/PES.2011.6039693](https://doi.org/10.1109/PES.2011.6039693) 
 
@@ -2469,44 +2623,44 @@ Publisher’s Website: [https://doi.org/10.1109/PES.2011.6039034](https://doi.or
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP015_LVFM_DeepFOSS_education_panel.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2011/CP015_LVFM_DeepFOSS_education_panel.pdf) 
 
+<h5></h5>
 
-##### 
+
+<h5>2010  (4 articles)</h5>
 
 
-##### 2010  (4 articles)
-
-(CP14)_ _R. Leelaruji, **L. Vanfretti**, “Coordination of Protection and VSC-HVDC Systems for Mitigating  Cascading Failures,” in Proceedings of POWERCON 2010, Hangzhou, China, Oct. 24-28, 2010.
+(CP14)* *R. Leelaruji, **L. Vanfretti**, “Coordination of Protection and VSC-HVDC Systems for Mitigating  Cascading Failures,” in Proceedings of POWERCON 2010, Hangzhou, China, Oct. 24-28, 2010.
 
 Publisher’s website: [https://doi.org/10.1109/POWERCON.2010.5666604](https://doi.org/10.1109/POWERCON.2010.5666604) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP014_RL_LV_Coordination%20of%20Protection%20and%20VSC-HVDC.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP014_RL_LV_Coordination%20of%20Protection%20and%20VSC-HVDC.pdf) 
 
-(CP13) **L. Vanfretti**, and J. H. Chow, “Analysis of Power System Oscillations for Developing Synchrophasor Data Applications”, In Proceedings _2010 Symposium Bulk Power System Dynamics and Control VIII (IREP)_, Buzios, Brazil, 2010.
+(CP13) **L. Vanfretti**, and J. H. Chow, “Analysis of Power System Oscillations for Developing Synchrophasor Data Applications”, In Proceedings *2010 Symposium Bulk Power System Dynamics and Control VIII (IREP)*, Buzios, Brazil, 2010.
 
 Publisher’s website: [https://ieeexplore.ieee.org/document/5563289](https://ieeexplore.ieee.org/document/5563289)
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP013_LV_Buzios_network_modeshapes_derivations.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP013_LV_Buzios_network_modeshapes_derivations.pdf)
 
-(CP12)_ **L.  Vanfretti**_, R. García-Valle, K. Uhlen, E. Johansson, D. Trudnowski, J. W. Pierre, J. H. Chow, O. Samuelsson, J. Østergaard, K. E. Martin, “Estimation of Eastern Denmark’s Electromechanical Modes from Ambient Phasor Measurement Data”, IEEE PES General Meeting, 2010, Minneapolis, MN.
+(CP12)* ***L.  Vanfretti**, R. García-Valle, K. Uhlen, E. Johansson, D. Trudnowski, J. W. Pierre, J. H. Chow, O. Samuelsson, J. Østergaard, K. E. Martin, “Estimation of Eastern Denmark’s Electromechanical Modes from Ambient Phasor Measurement Data”, IEEE PES General Meeting, 2010, Minneapolis, MN.
 
 Publisher’s Website: [https://doi.org/10.1109/PES.2010.5588149](https://doi.org/10.1109/PES.2010.5588149) 
 
 Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP012_LV_RV_DKModeEst_PESGM2010_v2.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP012_LV_RV_DKModeEst_PESGM2010_v2.pdf) 
 
-(CP11)_ **L. Vanfretti**_, J. H. Chow, U. Aliyu, L. Dosiek, J.Pierre, D. Trudnowski, and R. Garcia-Valle “Estimation of the Nigerian Power System Electromechanical Modes using FDR Measurements,”  In Proceedings of the 9<sup>th </sup>International Conference on Power System Operations and Planning (ICPSOP) 2010.
+(CP11)* ***L. Vanfretti**, J. H. Chow, U. Aliyu, L. Dosiek, J.Pierre, D. Trudnowski, and R. Garcia-Valle “Estimation of the Nigerian Power System Electromechanical Modes using FDR Measurements,”  In Proceedings of the 9<sup>th </sup>International Conference on Power System Operations and Planning (ICPSOP) 2010.
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP011_LV_ICPSOP_2010_NigModeEst.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2010/CP011_LV_ICPSOP_2010_NigModeEst.pdf) 
 
+<h5>2009 (5 articles)</h5>
 
-##### 2009 (5 articles)
 
- (CP10)_ **L. Vanfretti**_, J. H. Chow, S. Sarawgi, and D. Ellis, “A Framework for Estimation of Power Systems Based on Synchronized Phasor Data,” **Invited Paper, **New Techniques for Synchronized Phasor Data Analysis Panel Session, IEEE PES General Meeting 2009, Calgary, Alberta, Canada.
+ (CP10)* ***L. Vanfretti**, J. H. Chow, S. Sarawgi, and D. Ellis, “A Framework for Estimation of Power Systems Based on Synchronized Phasor Data,” **Invited Paper, **New Techniques for Synchronized Phasor Data Analysis Panel Session, IEEE PES General Meeting 2009, Calgary, Alberta, Canada.
 
 Publisher’s website: [https://doi.org/10.1109/PES.2009.5275545](https://doi.org/10.1109/PES.2009.5275545) 
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP010_LV_GM09_PSE.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP010_LV_GM09_PSE.pdf) 
 
-(CP09)_ **L.  Vanfretti**_, and J. H. Chow, “Computation and Analysis of Power System Voltage Oscillations from Interarea Modes,” **Invited Paper, **Recent Applications of Linear Analysis Techniques Panel Session, IEEE PES General Meeting 2009, Calgary, Alberta, Canada.
+(CP09)* ***L.  Vanfretti**, and J. H. Chow, “Computation and Analysis of Power System Voltage Oscillations from Interarea Modes,” **Invited Paper, **Recent Applications of Linear Analysis Techniques Panel Session, IEEE PES General Meeting 2009, Calgary, Alberta, Canada.
 
 Publisher’s Website: [https://doi.org/10.1109/PES.2009.5275548](https://doi.org/10.1109/PES.2009.5275548) 
 
@@ -2524,14 +2678,14 @@ Publisher’s Website: [https://doi.org/10.1109/PES.2009.5275920](https://doi.or
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP007_GM09_FOSS.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP007_GM09_FOSS.pdf) 
 
-(CP06) J. H. Chow, **L. Vanfretti**, _et al_, “Preliminary Synchronized Phasor Data Analysis of Disturbance Events in the US Eastern Interconnection,” **Invited Paper**, Deployment and Application of Synchronized Phasor Measurements, Panel Session, IEEE PES Power System Conference and Exposition (PSCE) 2009, Seattle, WA.
+(CP06) J. H. Chow, **L. Vanfretti**, *et al*, “Preliminary Synchronized Phasor Data Analysis of Disturbance Events in the US Eastern Interconnection,” **Invited Paper**, Deployment and Application of Synchronized Phasor Measurements, Panel Session, IEEE PES Power System Conference and Exposition (PSCE) 2009, Seattle, WA.
 
 Publisher’s Website: [https://ieeexplore.ieee.org/document/4840097](https://ieeexplore.ieee.org/document/4840097)
 
 Author’s copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP006_PSCE09_PSRC_EI_PMU_data_analysis.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2009/CP006_PSCE09_PSRC_EI_PMU_data_analysis.pdf) 
 
+<h5>2008 – 2006 (5 articles)</h5>
 
-##### 2008 – 2006 (5 articles)
 
 (CP05) C.E. Ugalde-Loo, E. Acha, E. Liceaga-Castro, and **L. Vanfretti**, “Fundamental Analysis of the Synchronous Generator TCSC System using the ICAD Framework,” In Proceeding of the 16<sup>th </sup>Power Systems Computation Conference 2008 (PSCC 2008), Liege, Belgium.
 
@@ -2563,15 +2717,15 @@ Author’s copy:
 
 [https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2006-2008/CP01_SynchGenICAD_UKICC2006.pdf](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2006-2008/CP01_SynchGenICAD_UKICC2006.pdf) 
 
+<h3>5    Tutorials</h3>
 
-### 5    Tutorials
 
 L. Vanfretti, “Getting Started with Power System Modeling using Modelica and the OpenIPSL,” Tutorial at the 11th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems, San Antonio, Texas, USA, May 9, 2023. DOI: 10.13140/RG.2.2.28913.56165
 
 On-line: [http://dx.doi.org/10.13140/RG.2.2.28913.56165](http://dx.doi.org/10.13140/RG.2.2.28913.56165) 
 
+<h3>6    Papers in Magazines and Newsletters</h3>
 
-### 6    Papers in Magazines and Newsletters
 
 (PM02) M. Podlaski, **L. Vanfretti**, A. Khare, M. Sumption, and P. Ansell, “Electro-Thermal Modeling of HTS Power Lines for Cryogenically-Cooled Electric Aircraft Design,” IEEE CSC & ESAS SUPERCONDUCTIVITY NEWS FORUM (global edition), No. 50, October 2021.
 
@@ -2593,40 +2747,40 @@ Author’s Copy: [https://ecse.rpi.edu/~vanfrl/documents/publications/conference
 
 Publisher’s Website: [https://www.automaticaeinstrumentacion.com/](https://www.automaticaeinstrumentacion.com/) 
 
+<h3>7    Other Publications</h3>
 
-### 7    Other Publications
+
+<h4>Patents</h4>
 
 
-#### Patents
-
-**_Patent pending:_** S. Dorado, B. Vinzamuri, and **L. Vanfretti**. _Method and Apparatus for Designing Ladder and Laguerre Orthogonal Recurrent Neural Network Architectures inspired by Discrete-Time Dynamical Systems_. Non provisional US Patent P202006146US01, Filed Nov. 30, 2021. Jointly Owned by International Business Machines Corporation and Rensselaer Polytechnic Institute.
+***Patent pending:*** S. Dorado, B. Vinzamuri, and **L. Vanfretti**. *Method and Apparatus for Designing Ladder and Laguerre Orthogonal Recurrent Neural Network Architectures inspired by Discrete-Time Dynamical Systems*. Non provisional US Patent P202006146US01, Filed Nov. 30, 2021. Jointly Owned by International Business Machines Corporation and Rensselaer Polytechnic Institute.
 
 Online: [https://patents.google.com/patent/US20230169327A1/en](https://patents.google.com/patent/US20230169327A1/en) 
 
+<h4>Special Publications</h4>
 
-#### Special Publications
 
-**L. Vanfretti**, “Phasor-Only State Estimation” in “Synchronized Phasor Measurements: Fundamentals and Applications,” **_Tutorial_**, IEEE PES General Meeting 2010, Minneapolis, MN. July 29, 2010.
+**L. Vanfretti**, “Phasor-Only State Estimation” in “Synchronized Phasor Measurements: Fundamentals and Applications,” ***Tutorial***, IEEE PES General Meeting 2010, Minneapolis, MN. July 29, 2010.
 
 Author’s copy: [https://sites.ecse.rpi.edu/~vanfrl/documents/presentations/2010/LV_PESGM2010_PSE_v2.pdf](https://sites.ecse.rpi.edu/~vanfrl/documents/presentations/2010/LV_PESGM2010_PSE_v2.pdf) 
 
-
-#### Papers in Conferences and Magazines in Spanish:
-
-**L. Vanfretti**, “Mathematical Models and Software Tools for Simulation of Transmission Lines Transients,” _XXIII Congreso de Estudiantes de Centroamérica y Panamá (CONESCAPAN XXIII)_, IEEE Section 9, September 2004, Guatemala. (In Spanish).
-
-**L. Vanfretti**, “State Space and Simulation of Simple Physical Systems with MATLAB,” Magazine of the Mathematics Department, _Universidad de San Carlos de Guatemala_. October 2004, Year 12. Pages 21-30. (In Spanish).
+<h4>Papers in Conferences and Magazines in Spanish:</h4>
 
 
-### 8    White Papers and Contributions to Reports in International Societies
+**L. Vanfretti**, “Mathematical Models and Software Tools for Simulation of Transmission Lines Transients,” *XXIII Congreso de Estudiantes de Centroamérica y Panamá (CONESCAPAN XXIII)*, IEEE Section 9, September 2004, Guatemala. (In Spanish).
+
+**L. Vanfretti**, “State Space and Simulation of Simple Physical Systems with MATLAB,” Magazine of the Mathematics Department, *Universidad de San Carlos de Guatemala*. October 2004, Year 12. Pages 21-30. (In Spanish).
+
+<h3>8    White Papers and Contributions to Reports in International Societies</h3>
 
 
-#### 8.1    White Papers - Single Authored
+<h4>8.1    White Papers - Single Authored</h4>
+
 
 **L. Vanfretti**, “SmarTS-LAB: a Smart Transmission Grids Laboratory at KTH,”  White Paper, EPS Division, School of Electrical Engineering, Royal Institute of Technology (KTH),  Stockholm, Sweden. November, 2010.
 
+<h4>8.2    Contributions to Task Force, Working Groups and Other Reports</h4>
 
-#### 8.2    Contributions to Task Force, Working Groups and Other Reports
 
 (TF10) North American Synchrophasor Initiative, Distribution systems Task Team, “DisTT: Synchrophasor Monitoring for Distribution Systems -Technical Foundations and Applications”, 2018. 
 
@@ -2683,33 +2837,30 @@ These include:
 DIVA:  [http://www.pes-store.org/p-13616.htm](http://www.pes-store.org/p-13616.htm)
 
 
-        (TF2)_ **L. Vanfretti **_and E. Johansson, “Application of Ambient Analysis Techniques for Electromechanical Mode Estimation from Measured PMU Data in the Nordic Power System,” White Paper, submitted by invitation  for a Special Publication of the Task Force on Modal Identification of Electromechanical  Modes, IEEE PES Society, November, 2010.
+        (TF2)* ***L. Vanfretti **and E. Johansson, “Application of Ambient Analysis Techniques for Electromechanical Mode Estimation from Measured PMU Data in the Nordic Power System,” White Paper, submitted by invitation  for a Special Publication of the Task Force on Modal Identification of Electromechanical  Modes, IEEE PES Society, November, 2010.
 
 
         DIVA:  [http://kth.diva-portal.org/smash/record.jsf?searchId=1&pid=diva2:482085](http://kth.diva-portal.org/smash/record.jsf?searchId=1&amp;pid=diva2%3A482085)
 
 
-        (TF1)_ **L. Vanfretti **_and J. H. Chow, “Identification of Dominant Inter-Area Modes in the Eastern Interconnection from PMU data of the FRCC 2008 Disburbance: an Eigensystem Realization Algorithm Illustration,”  White Paper, submitted by invitation  for a Special Publication of the Task Force on Modal Identification of Electromechanical Modes, IEEE PES Society, July, 2010.
+        (TF1)* ***L. Vanfretti **and J. H. Chow, “Identification of Dominant Inter-Area Modes in the Eastern Interconnection from PMU data of the FRCC 2008 Disburbance: an Eigensystem Realization Algorithm Illustration,”  White Paper, submitted by invitation  for a Special Publication of the Task Force on Modal Identification of Electromechanical Modes, IEEE PES Society, July, 2010.
 
 
         DIVA:  [http://kth.diva-portal.org/smash/record.jsf?searchId=1&pid=diva2:482079](http://kth.diva-portal.org/smash/record.jsf?searchId=1&amp;pid=diva2%3A482079)
 
+<h4>8.3    White Papers with Working Groups</h4>
 
-#### 8.3    White Papers with Working Groups
 
 Joe H. Chow, **Luigi Vanfretti**, Patrick Quinn, Lisa Beard, Dejan Sobajic, and Alison Silverstein, “White Paper on Guidelines for Siting of Dynamic Measurement and Recording Units”, Research Initiatives Task Team Report, North American Synchrophasor Initiative (NASPI), Dec. 2009.
 
-
-### 9    Thesis
-
-(3)_  **L. Vanfretti**_, _“Phasor Measurement-Based State Estimation of Electric Power Systems and Linearized Anal- ysis of Power System Network Oscillations”,_ PhD Thesis, Rensselaer Polytechnic Institute, December 2009. [http://tinyurl.com/vanfretti-phd-thesis](http://tinyurl.com/vanfretti-phd-thesis)
-
-(2)_ **L. Vanfretti**_, _“Notions of Phasor Measurement-Based Power System Model Reduction of Large Power Systems” _, MSc Thesis, Rensselaer Polytechnic Institute, July 2007. [http://tinyurl.com/vanfretti-msc-thesis](http://tinyurl.com/vanfretti-msc-thesis)
-
-(1)_ **L. Vanfretti**_, _“Modeling and simulation of the synchronous machine and its operation in power systems” _, Electrical Engineering Degree - _Licenciatura _Thesis, _Universidad  de San Carlos de Guatemala_,  May 2005. In Spanish. [http://biblioteca.usac.edu.gt/tesis/08/08_6193.pdf](http://biblioteca.usac.edu.gt/tesis/08/08_6193.pdf)
+<h3>9    Thesis</h3>
 
 
+(3)*  ***L. Vanfretti**, *“Phasor Measurement-Based State Estimation of Electric Power Systems and Linearized Analysis of Power System Network Oscillations”,* PhD Thesis, Rensselaer Polytechnic Institute, December 2009. [http://tinyurl.com/vanfretti-phd-thesis](http://tinyurl.com/vanfretti-phd-thesis)
 
+(2)* ***L. Vanfretti**, *“Notions of Phasor Measurement-Based Power System Model Reduction of Large Power Systems” *, MSc Thesis, Rensselaer Polytechnic Institute, July 2007. [http://tinyurl.com/vanfretti-msc-thesis](http://tinyurl.com/vanfretti-msc-thesis)
+
+(1)* ***L. Vanfretti**, *“Modeling and simulation of the synchronous machine and its operation in power systems” *, Electrical Engineering Degree - *Licenciatura *Thesis, *Universidad  de San Carlos de Guatemala*,  May 2005. In Spanish. [http://biblioteca.usac.edu.gt/tesis/08/08_6193.pdf](http://biblioteca.usac.edu.gt/tesis/08/08_6193.pdf)
 
 
 
