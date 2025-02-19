@@ -7,21 +7,12 @@ redirect_from:
   - /resume/
 ---
 {% include base_path %}
-### ***2025-02-18:*** Notice to Prospective Researchers and Students
-I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.
-
-I have been on sabbatical from August 2023 to August 2024 and, unfortunately, I have not managed to obtain any new research grants (in other words, many grant applications have been rejected :-( ). Consequently, I will NOT be looking for any new students in the near future. 
-
-My current priority is to find funds to support my existing group of students, however, in the unlikely event that more funding than expected becomes available, I may start looking for new students to join in Fall 2027.
-
-Please do not email me with requests and questions about joining my research program because I will not have available funding to support additional students. 
-See more information about how funding/support schemes for  [here](https://alsetlab.github.io/students/).
 
 ---
 # Current Researchers and Students @ALSETLab
 
 ## Research Scientists (i.e. Senior Researchers)
-- Since Spring 2020: [Dr. Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-ph-d-20711763/) working on machine-learning applications and multi-domain modeling for energy systems.
+- None, ;-(
 
 ## Post-Docs
 - None, ;-(
@@ -33,7 +24,7 @@ See more information about how funding/support schemes for  [here](https://alset
 - Since Spring 2022: [Hao Chang](https://www.linkedin.com/in/hao-chang-346b05156/) working on testing and identification of Inverter-based resources.
 
 ## MSc Students
-- Since Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on power system modeling (on leave of abscense).
+- None, ;-(
 
 # Visitors
 - None, ;-(
@@ -55,6 +46,7 @@ See more information about how funding/support schemes for  [here](https://alset
 - 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) MSc student from Alfred University, NY, worked on microgrid modeling using real-time simulators.
 
 ## Senior Researchers
+- [Dr. Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-ph-d-20711763/) worked on machine-learning applications and multi-domain modeling for energy systems, from Spring 2020 to Fall 2024.
 - [Dr. Abhijit Khare](https://www.linkedin.com/in/abhijit-khare-98423310/) worked on multi-domain modeling for fully electrified aircraft in the NASA-funded CHEETA project.
 - [Dr. Sjoerd Boersma](https://www.linkedin.com/in/sjoerd-boersma-3610bb94/) worked on system identification of HVDC control at [SuperGrid Institute](https://www.supergrid-institute.com/). Co-supervised with Prof. [Prof. Xavier Bombois](https://www.ec-lyon.fr/en/contacts/xavier-bombois) of [EC Lyon](https://www.ec-lyon.fr/en/contacts/xavier-bombois) and with Dr. [Abdelkrim Benchaib](https://www.linkedin.com/in/abdelkrim-benchaib-12987a32/).
 - [Dr. Hamed Nademi](https://www.nmepscor.org/news/five-new-faculty-join-nm-smart-grid-center-team) worked in the NASA-funded CHEETA project on aircraft electrification and vehicle charging solutions while at RPI.
