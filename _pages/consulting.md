@@ -11,7 +11,7 @@ redirect_from:
 ---
 # Consulting Services
 
-![vllc](https://alsetlab.github.io/images/vllc.png "Logo")
+![vllc](https://alsetlab.github.io/images/vllc.svg "Logo"){width="300px"}
 
 Enquiries for services can be made via my consulting email: [Click Here](mailto:luigi@vanfretti.com?subject=Your%20Consulting%20Services&body=Body%20text)
 
