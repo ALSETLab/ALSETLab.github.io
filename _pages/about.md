@@ -35,7 +35,7 @@ He was with Statnett SF, the Norwegian transmission system operator, from 2013 t
 
 His research interests are in “electrified systems,”' and include cyber-physical system (CPS) modeling, simulation, stability and control in the domains of power grid and electrified transportation, both vehicles and infrastructure. In addition, he performs research on synchrophasor technologies, both on technology development and data analytics, and is interested in the application of software technologies, signal processing, system identification and machine learning for design and operation analytics for CPS.
 
-Here's a picture of Luigi from 2024:
+Here's a picture of Luigi from 2025:
 
 ![luigixsmall](https://alsetlab.github.io/images/luigi_small.jpg "Small Picture")
 
