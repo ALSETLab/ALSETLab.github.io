@@ -11,8 +11,8 @@ redirect_from:
 ![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
 [Download Larger Version](https://alsetlab.github.io/images/ALSETLab-1pager.pdf)
 
-### ***2025-02-18:*** Notice to Prospective Researchers and Students
-- Please see the information [here](https://alsetlab.github.io/students/) for students, researchers, etc., looking to join my team.
+### ***2025-10-04:*** Notice to Prospective Researchers and Students: 
+***I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.***  Please see the information [here](https://alsetlab.github.io/recruiting/) for students, researchers, etc., looking to join my team.
 
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab (a research group and a laboratory) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.

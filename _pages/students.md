@@ -11,15 +11,8 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
-### ***2025-02-18:*** Notice to Prospective Researchers and Students
-I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.
-
-I have been on sabbatical from August 2023 to August 2024 and, unfortunately, I have not managed to obtain any new research grants (in other words, many grant applications have been rejected :-( ). Consequently, I will NOT be looking for any new students in the near future. 
-
-My current priority is to find funds to support my existing group of students, however, in the unlikely event that more funding than expected becomes available, I may start looking for new students to join in Fall 2027.
-
-Please do not email me with requests and questions about joining my research program because I will not have available funding to support additional students. 
-See more information about how funding/support schemes for  [here](https://alsetlab.github.io/students/).
+### ***2025-10-04:*** Notice to Prospective Researchers and Students: 
+***I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.***  Please see the information [here](https://alsetlab.github.io/recruiting/) for students, researchers, etc., looking to join my team.
 
 # About Joining my Team: ALSETLab
 
@@ -30,12 +23,12 @@ See more information about how funding/support schemes for  [here](https://alset
   - If you don't read the stuff below, and contact me anyway, I will reply to you asking read the text below! So, you might as well keep reading...
 
 ## Are you an undergrad or grad student at RPI?
-- If you are an ***undergraduate at RPI***, currently I am not taking in additional undergraduate students, please check back in Spring 2025 if I am taking student to work with my team.
+- If you are an ***undergraduate at RPI***, please check [here](https://alsetlab.github.io/recruiting/) to see if I am taking any undergraduate students.
 - If you are a graduate student at RPI, please first check with your faculty advisor if it is ok to meet me.
 
 ## Are you at another university in the USA or outside the USA?
-* ***It is not necessary to contact me prior to application.***
 * For us to work together, you first need to **apply for admission** to our graduate program.
+* ***It is not necessary to contact me prior to application.***
 * Indicate that you want to work with me in your documentation once you have fulfilled the requirements for admission.
 * Before you apply, ***please read*** the information below.
 

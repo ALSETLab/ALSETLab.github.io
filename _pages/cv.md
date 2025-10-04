@@ -49,18 +49,19 @@ USA
 
 ## Academic:
 #### At RPI:
-- 2022/7 – Current: Full Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
-- 2017 – 2022/6: Associate Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
+- 2022/7 – Current: Tenured Full Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
+- 2017 – 2022/6: Tenured Associate Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
 
 #### Part-time appointments:
+- 2025/6 - 2025/7: Invited Professor (Enseignant Invité), École Centrale de Lyon, Lyon, France.
 - 2023/8 - 2024/3: Visiting Faculty, Mitsubishi Electric Research Labs., Cambridge, MA, USA.
 - 2023/6 - 2023/07:	Visiting Researcher, École Centrale de Lyon, Lyon, France.
 - 2022/7: Visiting Professor, SuperGrid Institute, Lyon, France.
 - 2022/6:	Invited Professor (Enseignant Invité), École Centrale de Lyon, Lyon, France.
 - 2019/06-2019/08: Visiting Faculty, King Abdullah University of Science and Technology, Saudi Arabia
 
-#### AT KTH:
-- 2013 – 2017: (Tenured) Associate Professor, KTH Royal Institute of Technology, Sweden
+#### Prior Academic Appointments at KTH Royal Institute of Technology:
+- 2013 – 2017: Tenured Associate Professor, KTH Royal Institute of Technology, Sweden
 - 2012 – 2017: Docent, KTH Royal Institute of Technology, Sweden
 - 2010 – 2013: Assistant Professor, KTH Royal Institute of Technology, Sweden
 

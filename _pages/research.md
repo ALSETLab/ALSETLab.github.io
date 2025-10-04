@@ -29,6 +29,10 @@ and developing/supporting/using open source software and open access standards.
 - (2025) New York Independent System Operator (NYISO) Funded Project: "Dynamic Modeling of Voltage Source Converters for Black Start Capability Analysis".
   - Abstract: To aid the NYISO better determine the potential application of VSC-HVDC “black start” capabilities currently adopted in the field, this project addresses fundamental aspects of VSC-HVDC modeling and simulation. The project will derive and implement the required models to analyze the operation of VSC-HVDC for black start capabilities, both using “conventional” black start control loops as implemented in the field and alternative control configurations.
 
+
+- (2025) [Elia Group and Energinet Research Challenge](https://www.mccs.com/en/latest-updates/20250101_elia-group-and-energinet-research-challenge). Proposal in Response to Research Question 4b (How can we in Modelica express and design a simplified model representation from a black box model (dll) given an interface and an accepted error tolerance?) [Selected for Funding!](https://www.mccs.com/en/latest-updates/20250602_update-on-elia-group-energinet-research-challenge). Project: ''“Clean Room” Re-Engineering of Black Box Models for Power System Simulation using Modelica''
+  - Abstract: This project aims to create a systematic approach to derive simplified simulation models in Modelica that can replace black box models implemented in dynamic link libraries (DLL), ensuring the preservation of essential dynamic behaviors. The goal is to enhance computational efficiency of the simplified models as compared with the DLLs in order to facilitate near-time dynamic simulations, addressing current challenges in system operations. The project will develop a proof-of-concept, a guideline and potential solutions to generate simplified models from black-box DLLs that would aid in performing simulations at the pan-European scale.
+
 To be updated, some may be missing...
 
 ## Long Term Research Projects  
