@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "ALSETLab"
-  avatar           : "rpilogo.png"
+  avatar           : "rpiseal.svg" # filename of avatar image placed in /images/, e.g. "user.jpg"
   bio              : "Prof. Luigi Vanfretti's research group and lab. working on cyber-physical power system modeling and simulation, stability and control."
   location         : "Troy, NY"
   employer         : "RPI"
