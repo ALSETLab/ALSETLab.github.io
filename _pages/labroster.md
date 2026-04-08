@@ -20,7 +20,7 @@ redirect_from:
 ## PhD Students
 - Since Spring of 2024: [Md. Nazmul Hassan Chowdhury](https://www.linkedin.com/in/md-nazmul-hassan-chowdhury/), working on modeling of black start HVDC controls.
 - Since Fall of 2023: [Mohtarima Medha](https://www.linkedin.com/in/mohtarima-medha-7a0506176/), working on analysis of embedded HVDC links in a synchronous dispatch region.
-- Since Spring 2023: [Srijita Bhattacharjee](https://www.linkedin.com/in/srijitabhattacharjee/), working on multi-domain modeling for grid-interactive district energy systems.
+- Since Spring 2023: [Srijita Bhattacharjee](https://www.linkedin.com/in/srijitabhattacharjee/), working on modeling of energy sources.
 - Since Spring 2022: [Hao Chang](https://www.linkedin.com/in/hao-chang-346b05156/) working on modeling, simulation, testing and identification of Inverter-based resources.
 
 ## MSc Students

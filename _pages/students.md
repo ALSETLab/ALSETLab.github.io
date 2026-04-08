@@ -11,8 +11,11 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
-### ***2025-10-04:*** Notice to Prospective Researchers and Students: 
-***I will NOT be recruiting any graduate students (MSc and PhD) to join my team for the foreseeable future.***  Please see the information [here](https://alsetlab.github.io/recruiting/) for students, researchers, etc., looking to join my team.
+
+### **2026-04-08:** Notice to Prospective Researchers and Graduate Students: 
+**I will be recruiting 1 graduate student to join my team in Fall 2026 or Spring 2027.** 
+
+Please see the information [here](https://alsetlab.github.io/recruiting/) for students, researchers, etc., looking to join my team.
 
 # About Joining my Team: ALSETLab
 
@@ -67,9 +70,9 @@ You are also expected to deliver at the same rate as other students under an RA.
 - Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/).
 
 ### Test Scores:
-- Ask the Admissions Office whether or not GRE Scores are required, if they are, as a guideline, the following are some scores you should aim to obtain. Verbal: 156, Quantitative: 146, Analytical: 4.0. I strongly recommend you take the GRE if it is no longer mandatory, it will make your application stand out (if the scores are good), as others might not report scores.
+- Ask the Admissions Office whether or not GRE Scores are required. If they are, as a guideline, the following are some scores you should aim to obtain. Verbal: 156, Quantitative: 146, Analytical: 4.0. I strongly recommend you take the GRE if it is no longer mandatory, it will make your application stand out (if the scores are good), as others might not report scores.
 
-- TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) - these are minimum thresholds.
+- Ask the Admissions Office whether or not TOEFL is required. As a guideline, scores of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) are minimum thresholds.
 
 - ***Don't shoot for the minimum!*** The list above gives you ***minimum*** scores that give an idea of the level expected for Institute-wide admission. Note that these are old numbers, I do not know what the current minimums are officially, but these are a good guess. Keep in mind that you are competing against applicants from everywhere in the world, and obviously, this means that your scores will be used as a basis for ranking you for admission (if required). Don't shoot for the minimum, get as high scores as possible.
 
