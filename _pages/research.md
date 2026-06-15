@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 # Research Areas
 
 I work in the engineering domains of electrical power systems (power grid), electrified aircraft, and combined energy systems (e.g. heat and power networks, power-to-X).
@@ -26,34 +27,38 @@ and developing/supporting/using open source software and open access standards.
 
 # Research Projects
 ## Current Research Projects
-- (2025-2026) New York Independent System Operator (NYISO) Funded Project: "Dynamic Modeling of Voltage Source Converters for Black Start Capability Analysis".
-  - Abstract: To aid the NYISO better determine the potential application of VSC-HVDC “black start” capabilities currently adopted in the field, this project addresses fundamental aspects of VSC-HVDC modeling and simulation. The project will derive and implement the required models to analyze the operation of VSC-HVDC for black start capabilities, both using “conventional” black start control loops as implemented in the field and alternative control configurations.
-
-
-- (2025-2026) [Elia Group and Energinet Research Challenge](https://www.mccs.com/en/latest-updates/20250101_elia-group-and-energinet-research-challenge). Proposal in Response to Research Question 4b (How can we in Modelica express and design a simplified model representation from a black box model (dll) given an interface and an accepted error tolerance?) [Selected for Funding!](https://www.mccs.com/en/latest-updates/20250602_update-on-elia-group-energinet-research-challenge). Project: ''“Clean Room” Re-Engineering of Black Box Models for Power System Simulation using Modelica''
+- (2025-2026) [Elia Group and Energinet Research Challenge](https://www.mccs.com/en/latest-news/20250602_update-on-elia-group-energinet-research-challenge). 
+  - Proposal selected for funding in Response to Research Question 4b (How can we in Modelica express and design a simplified model representation from a black box model (dll) given an interface and an accepted error tolerance?) 
+  - Project: ''“Clean Room” Re-Engineering of Black Box Models for Power System Simulation using Modelica''
   - Abstract: This project aims to create a systematic approach to derive simplified simulation models in Modelica that can replace black box models implemented in dynamic link libraries (DLL), ensuring the preservation of essential dynamic behaviors. The goal is to enhance computational efficiency of the simplified models as compared with the DLLs in order to facilitate near-time dynamic simulations, addressing current challenges in system operations. The project will develop a proof-of-concept, a guideline and potential solutions to generate simplified models from black-box DLLs that would aid in performing simulations at the pan-European scale.
+  - New's items from Elia Group & Energinet Research Challenge:
+    * [Mid-Term Meeting Elia Group Research Challenge](https://www.mccs.com/en/latest-news/20251113_mid-term-meeting-elia-group-research-challenge)
+    * [Update on Elia-Group & Energinet Research Challenge - Research together, grow together](https://www.mccs.com/en/latest-news/20250602_update-on-elia-group-energinet-research-challenge)
+    * [Elia Group & Energinet Research Challenge: Accelerating speed from Research to (System) Operations](https://www.mccs.com/en/latest-news/20250101_elia-group-and-energinet-research-challenge)
 
 To be updated, some may be missing...
 
 ## Long Term Research Projects  
 
 - The [OpenIPSL.org](http://openipsl.org) project works in the development of a Modelica library for power system dynamic modeling and simulation. It is the bases for my work on cyber-physical power system design and analysis methods. This project is a continuation of work started in 2012 in the use of the Modelica language for power systems.
-  - See [OpenIPSL.org](http://openipsl.org) for members, results and documentation.
-  - Currently partially supported by [this project](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/).
   - Contact me to support this project!
 
 - [ALSETLab](https://alsetlab.github.io/lab/): a time-sensitive and real-time simulation-based hardware & software development and testing platform for cyber-physical power systems with power hardware-in-the-loop smart inverter testing capabilities.
-    - Currently unfunded.
     - Contact me to donate equipment, or to support this project further!
 
 ## Past Research
-### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested)
+
+### Past Funded Research in the USA
+
+- (2025-2026) New York Independent System Operator (NYISO) Funded Project: "Dynamic Modeling of Voltage Source Converters for Black Start Capability Analysis".
+  - Abstract: To aid the NYISO better determine the potential application of VSC-HVDC “black start” capabilities currently adopted in the field, this project addresses fundamental aspects of VSC-HVDC modeling and simulation. The project will derive and implement the required models to analyze the operation of VSC-HVDC for black start capabilities, both using “conventional” black start control loops as implemented in the field and alternative control configurations.
+
 - (2022 - 2025) NSF-funded project: "Enhanced Power System Resiliency through Adaptive Automatic Remedial Action Selection using Multi-Agent Reinforcement Learning", with [Dr. Tetiana Bogodorova](https://ecse.rpi.edu/people/research-scientist/tetiana-bogodorova) as CO-PI.
   - Abstract: see the published abstract in NSF's website, [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231677).
-  - Note: being completed in 2025, under 6-month no cost extension.
+
 - (2020 - 2025) DOE-funded project "OpTEN": [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/).
   - Abstract: see project website [here](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) and a summary slide-set (circa 2022) [here](https://www.energy.gov/sites/default/files/2022-09/3.07%20-%20Baker%20and%20Zuo.pdf).
-  - Note: being completed in 2025, under 6-month no cost extension.
+
 - (2024) New York Independent System Operator (NYISO) Funded Project: "Analysis of Embedded High Voltage Direct Current (HVDC) Links in a Synchronous Dispatch Zone".
   - Abstract: High Voltage Direct Current (HVDC) technologies have been adopted for the development of two important projects in New York State, the Champlain Hudson Power Express (CHPE) and Clean Path New York (CPNY, https://www.cleanpathny.com/). CHPE will link New York City with clean energy resources in Quebec through underwater and underground HVDC facilities for 339 mi (546 km) and at a rating of 1,200 MW. Meanwhile, CPNY will build a 175 mi (28 km) underground and submarine link from Delaware County and the Hudson River transporting up to 1,300 MW. To understand the amount of power these HVDC lines will carry, consider the Robert Moses Niagara Hydroelectric Power Station, NYS’ largest electricity producer that has an installed capacity of 2,525 MW. This implies that roughly, each of this HVDC lines will transport ½ Niagara’s capacity, and consequently, any factors that impact their operation would have important consequences to reliability and resiliency of the overall NYS grid. More importantly, while CHPE is asynchronous (i.e., its terminals are in two non-synchronized grids), CPNY is within a single dispatch zone operated by the NYISO. Consequently, continuous operation of HVDC lines must be carefully planned out through steady-state, dynamic and electro-magnetic transient studies to avoid unforeseen technical operational challenges that if not properly addressed, may result in the malfunctioning, poor operation, under-performance of such advanced technologies. This project aims to address some fundamental aspects of these embedded HVDC links.
 

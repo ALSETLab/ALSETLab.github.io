@@ -11,9 +11,9 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
+### **2026-06-15:** Notice to Prospective Researchers and Graduate Students:
 
-### **2026-04-08:** Notice to Prospective Researchers and Graduate Students: 
-**I will be recruiting 1 graduate student to join my team in Fall 2026 or Spring 2027.** 
+**I will be recruiting 1 graduate student to join my team in Spring 2027.**
 
 Please see the information [here](https://alsetlab.github.io/recruiting/) for students, researchers, etc., looking to join my team.
 
