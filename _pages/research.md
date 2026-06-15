@@ -127,7 +127,7 @@ Contact me for further information regarding smaller past projects carried out i
 
 The Top Three Past Projects:
 - [opencps.eu](https://opencps.eu): Open Cyber-Physical System Model-Driven Certified Development. With tool interoperability, vendor lock-ins and tool life-cycle support as major challenges, this research project focuses on interoperability between the Modelica/Unified Modeling Language (UML)/Functional Mock-up Interface (FMI) standards, improved (co-)simulation execution speed, and verified code generation.
-  - **OpenCPS received the ITEA Award of Excellence September 2019 during the ITEA PO Days 2019, more information: [click here](https://saabgroup.com/media/stories/stories-listing/2019-09/research-results-leads-to-award-for-new-energy-efficient-aerial-vehicles-platform-concepts/).**
+  - **OpenCPS received the ITEA Award of Excellence September 2019 during the ITEA PO Days 2019, more information: [click here](https://itea4.org/news/itea-projects-acosar-opencps-and-reflexion-excel-in-open-and-standardised-co-simulation-and-digital-loop-with-big-impact-for-industry.html).**
 
 - The [FP7 IDE4L project](https://cordis.europa.eu/project/id/608860) project developed a substation automation architecture, and we contributed with a synchrophasor protocol gateway and PMU for distribution networks.
 - The [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developed a dynamic security assessment software platform, mostly used in France.
